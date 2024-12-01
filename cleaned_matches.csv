@@ -1,0 +1,1235 @@
+team1,team2,score_team1,score_team2,wickets_team1,wickets_team2,team1_away_or_home,team2_home_away,winner,ground_country,match_date
+West Indies,Australia,172,173,9,9,away,home,Australia,Australia,1996-01-01 00:00:00
+West Indies,Sri Lanka,194,124,10,10,away,away,West Indies,Australia,1996-01-03 00:00:00
+Sri Lanka,West Indies,102,104,10,3,away,away,West Indies,Australia,1996-01-05 00:00:00
+West Indies,Australia,231,217,10,10,away,home,West Indies,Australia,1996-01-07 00:00:00
+Australia,Sri Lanka,213,214,5,7,home,away,Sri Lanka,Australia,1996-01-09 00:00:00
+South Africa,England,211,205,8,10,home,away,South Africa,South Africa,1996-01-09 00:00:00
+South Africa,England,262,265,8,5,home,away,England,South Africa,1996-01-11 00:00:00
+Australia,Sri Lanka,266,183,6,9,home,away,Australia,Australia,1996-01-12 00:00:00
+England,South Africa,198,199,8,7,away,home,South Africa,South Africa,1996-01-13 00:00:00
+Sri Lanka,West Indies,202,186,10,9,away,away,Sri Lanka,Australia,1996-01-14 00:00:00
+England,South Africa,272,276,8,3,away,home,South Africa,South Africa,1996-01-14 00:00:00
+Australia,Sri Lanka,242,246,4,7,home,away,Sri Lanka,Australia,1996-01-16 00:00:00
+England,South Africa,184,185,10,5,away,home,South Africa,South Africa,1996-01-17 00:00:00
+South Africa,England,129,115,10,10,home,away,South Africa,South Africa,1996-01-19 00:00:00
+South Africa,England,218,154,9,10,home,away,South Africa,South Africa,1996-01-21 00:00:00
+New Zealand,Zimbabwe,278,204,5,10,home,away,New Zealand,New Zealand,1996-01-28 00:00:00
+Zimbabwe,New Zealand,181,184,9,4,away,home,New Zealand,New Zealand,1996-01-31 00:00:00
+Zimbabwe,New Zealand,267,246,7,10,away,home,Zimbabwe,New Zealand,1996-02-03 00:00:00
+New Zealand,England,239,228,6,9,away,away,New Zealand,India,1996-02-14 00:00:00
+South Africa,United Arab Emirates,321,152,2,8,away,away,South Africa,Pakistan,1996-02-16 00:00:00
+Zimbabwe,West Indies,151,155,9,4,away,away,West Indies,India,1996-02-16 00:00:00
+New Zealand,Netherlands,307,188,8,7,away,away,New Zealand,India,1996-02-17 00:00:00
+Kenya,India,199,203,6,3,away,home,India,India,1996-02-18 00:00:00
+United Arab Emirates,England,136,140,10,2,away,away,England,Pakistan,1996-02-18 00:00:00
+New Zealand,South Africa,177,178,9,5,away,away,South Africa,Pakistan,1996-02-20 00:00:00
+Zimbabwe,Sri Lanka,228,229,6,4,away,home,Sri Lanka,Sri Lanka,1996-02-21 00:00:00
+West Indies,India,173,174,10,5,away,home,India,India,1996-02-21 00:00:00
+England,Netherlands,279,230,4,6,away,away,England,Pakistan,1996-02-22 00:00:00
+Australia,Kenya,304,207,7,7,away,away,Australia,India,1996-02-23 00:00:00
+United Arab Emirates,Pakistan,109,112,9,1,away,home,Pakistan,Pakistan,1996-02-24 00:00:00
+South Africa,England,230,152,10,10,away,away,South Africa,Pakistan,1996-02-25 00:00:00
+Netherlands,Pakistan,145,151,7,2,away,home,Pakistan,Pakistan,1996-02-26 00:00:00
+Kenya,Zimbabwe,134,137,10,5,away,away,Zimbabwe,India,1996-02-27 00:00:00
+New Zealand,United Arab Emirates,276,167,8,9,away,away,New Zealand,Pakistan,1996-02-27 00:00:00
+Australia,India,258,242,10,10,away,home,Australia,India,1996-02-27 00:00:00
+Kenya,West Indies,166,93,10,10,away,away,Kenya,India,1996-02-29 00:00:00
+Pakistan,South Africa,242,243,6,5,home,away,South Africa,Pakistan,1996-02-29 00:00:00
+Zimbabwe,Australia,154,158,10,2,away,away,Australia,India,1996-03-01 00:00:00
+Netherlands,United Arab Emirates,216,220,9,3,away,away,U.A.E.,Pakistan,1996-03-01 00:00:00
+India,Sri Lanka,271,272,3,4,home,away,Sri Lanka,India,1996-03-02 00:00:00
+England,Pakistan,249,250,9,3,away,home,Pakistan,Pakistan,1996-03-03 00:00:00
+Australia,West Indies,229,232,6,6,away,away,West Indies,India,1996-03-04 00:00:00
+South Africa,Netherlands,328,168,3,8,away,away,South Africa,Pakistan,1996-03-05 00:00:00
+India,Zimbabwe,247,207,5,10,home,away,India,India,1996-03-06 00:00:00
+Sri Lanka,Kenya,398,254,5,7,home,away,Sri Lanka,Sri Lanka,1996-03-06 00:00:00
+Pakistan,New Zealand,281,235,5,10,home,away,Pakistan,Pakistan,1996-03-06 00:00:00
+England,Sri Lanka,235,236,8,5,away,away,Sri Lanka,Pakistan,1996-03-09 00:00:00
+India,Pakistan,287,248,8,9,home,away,India,India,1996-03-09 00:00:00
+West Indies,South Africa,264,245,8,10,away,away,West Indies,Pakistan,1996-03-11 00:00:00
+New Zealand,Australia,286,289,9,4,away,away,Australia,India,1996-03-11 00:00:00
+Sri Lanka,India,251,120,8,8,away,home,Sri Lanka,India,1996-03-13 00:00:00
+Australia,Sri Lanka,241,245,7,3,away,away,Sri Lanka,Pakistan,1996-03-17 00:00:00
+New Zealand,West Indies,243,247,10,9,away,home,West Indies,West Indies,1996-03-26 00:00:00
+West Indies,New Zealand,238,239,7,6,home,away,New Zealand,West Indies,1996-03-29 00:00:00
+New Zealand,West Indies,219,225,8,3,away,home,West Indies,West Indies,1996-03-30 00:00:00
+Sri Lanka,Pakistan,349,315,9,10,away,away,Sri Lanka,Singapore,1996-04-02 00:00:00
+India,Sri Lanka,199,187,10,10,away,away,India,Singapore,1996-04-03 00:00:00
+New Zealand,West Indies,158,154,10,10,away,away,New Zealand,Guyana,1996-04-03 00:00:00
+India,Pakistan,226,190,8,2,away,away,Pakistan,Singapore,1996-04-05 00:00:00
+New Zealand,West Indies,241,242,8,3,away,home,West Indies,West Indies,1996-04-06 00:00:00
+Pakistan,Sri Lanka,215,172,10,10,away,away,Pakistan,Singapore,1996-04-07 00:00:00
+Pakistan,India,271,233,5,10,away,away,Pakistan,United Arab Emirates,1996-04-12 00:00:00
+South Africa,Pakistan,314,171,3,7,away,away,South Africa,United Arab Emirates,1996-04-13 00:00:00
+Sri Lanka,West Indies,251,216,10,9,away,home,Sri Lanka,West Indies,1996-04-13 00:00:00
+South Africa,India,288,208,6,8,away,away,South Africa,United Arab Emirates,1996-04-14 00:00:00
+India,Pakistan,305,277,5,10,away,away,India,United Arab Emirates,1996-04-15 00:00:00
+Pakistan,South Africa,188,189,10,2,away,away,South Africa,United Arab Emirates,1996-04-16 00:00:00
+India,South Africa,215,216,8,5,away,away,South Africa,United Arab Emirates,1996-04-17 00:00:00
+South Africa,India,287,249,5,9,away,away,South Africa,United Arab Emirates,1996-04-19 00:00:00
+India,England,158,162,10,4,away,home,England,England,1996-05-25 00:00:00
+Australia,Zimbabwe,263,138,7,10,away,away,Australia,Sri Lanka,1996-08-26 00:00:00
+India,Sri Lanka,226,230,5,1,away,home,Sri Lanka,Sri Lanka,1996-08-28 00:00:00
+Pakistan,England,225,226,5,5,away,home,England,England,1996-08-29 00:00:00
+Australia,Sri Lanka,228,232,9,6,away,home,Sri Lanka,Sri Lanka,1996-08-30 00:00:00
+England,Pakistan,292,185,8,10,home,away,England,England,1996-08-31 00:00:00
+Zimbabwe,India,226,229,10,3,away,away,India,Sri Lanka,1996-09-01 00:00:00
+England,Pakistan,246,247,10,8,home,away,Pakistan,England,1996-09-01 00:00:00
+Zimbabwe,Sri Lanka,227,228,5,4,away,home,Sri Lanka,Sri Lanka,1996-09-03 00:00:00
+India,Australia,201,202,10,7,away,away,Australia,Sri Lanka,1996-09-06 00:00:00
+Sri Lanka,Australia,234,184,3,10,home,away,Sri Lanka,Sri Lanka,1996-09-07 00:00:00
+Pakistan,India,170,173,9,2,away,away,India,Canada,1996-09-16 00:00:00
+India,Pakistan,264,266,6,8,away,away,Pakistan,Canada,1996-09-17 00:00:00
+India,Pakistan,191,136,10,10,away,away,India,Canada,1996-09-18 00:00:00
+Pakistan,India,258,161,8,10,away,away,Pakistan,Canada,1996-09-21 00:00:00
+Pakistan,India,213,161,9,10,away,away,Pakistan,Canada,1996-09-23 00:00:00
+Kenya,Sri Lanka,188,190,9,3,home,away,Sri Lanka,Kenya,1996-09-28 00:00:00
+South Africa,Pakistan,321,259,8,10,away,away,South Africa,Kenya,1996-09-29 00:00:00
+South Africa,Sri Lanka,169,170,10,8,away,away,Sri Lanka,Kenya,1996-10-01 00:00:00
+Kenya,Pakistan,148,149,10,6,home,away,Pakistan,Kenya,1996-10-02 00:00:00
+South Africa,Kenya,305,103,8,10,away,home,South Africa,Kenya,1996-10-03 00:00:00
+Pakistan,Sri Lanka,371,289,9,10,away,away,Pakistan,Kenya,1996-10-04 00:00:00
+Pakistan,South Africa,203,204,10,3,away,away,South Africa,Kenya,1996-10-06 00:00:00
+South Africa,India,261,214,7,10,away,home,South Africa,India,1996-10-17 00:00:00
+Australia,South Africa,219,220,7,3,away,away,South Africa,India,1996-10-19 00:00:00
+Australia,India,215,216,7,8,away,home,India,India,1996-10-21 00:00:00
+South Africa,India,249,222,6,7,away,home,South Africa,India,1996-10-23 00:00:00
+Australia,South Africa,215,218,10,8,away,away,South Africa,India,1996-10-25 00:00:00
+India,South Africa,185,188,10,5,home,away,South Africa,India,1996-10-29 00:00:00
+Zimbabwe,Pakistan,237,239,9,7,away,home,Pakistan,Pakistan,1996-10-30 00:00:00
+Australia,South Africa,238,239,6,2,away,away,South Africa,India,1996-11-01 00:00:00
+Zimbabwe,Pakistan,195,196,10,1,away,home,Pakistan,Pakistan,1996-11-01 00:00:00
+Pakistan,Zimbabwe,264,147,9,10,home,away,Pakistan,Pakistan,1996-11-03 00:00:00
+India,Australia,289,284,6,10,home,away,India,India,1996-11-03 00:00:00
+India,South Africa,220,185,7,10,home,away,India,India,1996-11-06 00:00:00
+New Zealand,Sri Lanka,206,177,8,10,away,away,New Zealand,United Arab Emirates,1996-11-07 00:00:00
+Sri Lanka,Pakistan,206,131,10,10,away,away,Sri Lanka,United Arab Emirates,1996-11-08 00:00:00
+New Zealand,Pakistan,197,198,10,6,away,away,Pakistan,United Arab Emirates,1996-11-10 00:00:00
+New Zealand,Sri Lanka,169,169,8,10,away,away,Match tied,United Arab Emirates,1996-11-11 00:00:00
+Sri Lanka,Pakistan,189,193,10,2,away,away,Pakistan,United Arab Emirates,1996-11-12 00:00:00
+New Zealand,Pakistan,192,196,10,6,away,away,Pakistan,United Arab Emirates,1996-11-13 00:00:00
+Pakistan,New Zealand,160,119,10,10,away,away,Pakistan,United Arab Emirates,1996-11-15 00:00:00
+Pakistan,New Zealand,228,217,8,10,home,away,Pakistan,Pakistan,1996-12-04 00:00:00
+West Indies,Australia,172,173,10,5,away,home,Australia,Australia,1996-12-06 00:00:00
+Pakistan,New Zealand,277,231,9,10,home,away,Pakistan,Pakistan,1996-12-06 00:00:00
+West Indies,Australia,161,162,10,2,away,home,Australia,Australia,1996-12-08 00:00:00
+Pakistan,New Zealand,234,235,4,3,home,away,New Zealand,Pakistan,1996-12-08 00:00:00
+India,South Africa,267,193,6,10,home,away,India,India,1996-12-14 00:00:00
+Pakistan,Australia,223,211,10,10,away,home,Pakistan,Australia,1996-12-15 00:00:00
+England,Zimbabwe,152,153,10,8,away,home,Zimbabwe,Zimbabwe,1996-12-15 00:00:00
+Pakistan,West Indies,176,177,10,3,away,away,West Indies,Australia,1996-12-17 00:00:00
+Australia,Pakistan,199,203,10,6,home,away,Pakistan,Australia,1997-01-01 00:00:00
+Zimbabwe,England,200,179,10,7,home,away,Zimbabwe,Zimbabwe,1997-01-01 00:00:00
+Pakistan,West Indies,197,198,10,4,away,away,West Indies,Australia,1997-01-03 00:00:00
+Zimbabwe,England,249,118,7,10,home,away,Zimbabwe,Zimbabwe,1997-01-03 00:00:00
+Australia,West Indies,281,284,4,3,home,away,West Indies,Australia,1997-01-05 00:00:00
+Pakistan,Australia,149,120,10,10,away,home,Pakistan,Australia,1997-01-07 00:00:00
+Pakistan,West Indies,257,258,7,5,away,away,West Indies,Australia,1997-01-10 00:00:00
+Australia,West Indies,267,269,7,6,home,away,West Indies,Australia,1997-01-12 00:00:00
+West Indies,Pakistan,181,183,10,2,away,away,Pakistan,Australia,1997-01-14 00:00:00
+Pakistan,Australia,181,182,9,7,away,home,Australia,Australia,1997-01-16 00:00:00
+South Africa,India,270,231,4,10,home,away,South Africa,South Africa,1997-01-23 00:00:00
+Zimbabwe,South Africa,211,212,10,5,away,home,South Africa,South Africa,1997-01-25 00:00:00
+Zimbabwe,India,236,236,8,10,away,away,Match tied,South Africa,1997-01-27 00:00:00
+Zimbabwe,South Africa,226,229,6,5,away,home,South Africa,South Africa,1997-01-29 00:00:00
+Zimbabwe,South Africa,256,259,8,6,away,home,South Africa,South Africa,1997-01-31 00:00:00
+India,South Africa,179,180,9,4,away,home,South Africa,South Africa,1997-02-02 00:00:00
+India,South Africa,232,236,5,4,away,home,South Africa,South Africa,1997-02-04 00:00:00
+India,Zimbabwe,216,171,10,7,away,away,Zimbabwe,South Africa,1997-02-07 00:00:00
+Zimbabwe,India,240,241,8,4,away,away,India,South Africa,1997-02-09 00:00:00
+South Africa,India,278,234,8,10,home,away,South Africa,South Africa,1997-02-13 00:00:00
+India,Zimbabwe,168,139,10,2,away,home,Zimbabwe,Zimbabwe,1997-02-15 00:00:00
+New Zealand,England,222,226,6,6,home,away,England,New Zealand,1997-02-20 00:00:00
+New Zealand,England,253,134,8,4,home,away,England,New Zealand,1997-02-23 00:00:00
+New Zealand,England,237,237,10,8,home,away,Match tied,New Zealand,1997-02-26 00:00:00
+New Zealand,England,153,144,10,10,home,away,New Zealand,New Zealand,1997-03-02 00:00:00
+New Zealand,England,228,200,8,10,home,away,New Zealand,New Zealand,1997-03-04 00:00:00
+New Zealand,Sri Lanka,201,202,9,4,home,away,Sri Lanka,New Zealand,1997-03-25 00:00:00
+New Zealand,Sri Lanka,201,132,10,10,home,away,New Zealand,New Zealand,1997-03-27 00:00:00
+Australia,South Africa,223,227,9,4,away,home,South Africa,South Africa,1997-03-29 00:00:00
+South Africa,Australia,221,222,8,3,home,away,Australia,South Africa,1997-03-31 00:00:00
+South Africa,Australia,245,199,8,10,home,away,South Africa,South Africa,1997-04-02 00:00:00
+Zimbabwe,Sri Lanka,187,188,9,3,away,away,Sri Lanka,United Arab Emirates,1997-04-03 00:00:00
+Sri Lanka,Pakistan,243,224,8,9,away,away,Sri Lanka,United Arab Emirates,1997-04-04 00:00:00
+Australia,South Africa,211,196,9,10,away,home,Australia,South Africa,1997-04-05 00:00:00
+Pakistan,Zimbabwe,187,94,10,10,away,away,Pakistan,United Arab Emirates,1997-04-06 00:00:00
+Sri Lanka,Pakistan,251,200,7,10,away,away,Sri Lanka,United Arab Emirates,1997-04-07 00:00:00
+Zimbabwe,Sri Lanka,203,153,10,10,away,away,Zimbabwe,United Arab Emirates,1997-04-08 00:00:00
+Australia,South Africa,258,250,7,8,away,home,Australia,South Africa,1997-04-08 00:00:00
+Pakistan,Zimbabwe,151,119,9,10,away,away,Pakistan,United Arab Emirates,1997-04-09 00:00:00
+South Africa,Australia,284,287,7,5,home,away,Australia,South Africa,1997-04-10 00:00:00
+Pakistan,Sri Lanka,214,215,10,6,away,away,Sri Lanka,United Arab Emirates,1997-04-11 00:00:00
+South Africa,Australia,310,201,6,10,home,away,South Africa,South Africa,1997-04-13 00:00:00
+India,West Indies,179,149,10,2,away,home,West Indies,West Indies,1997-04-26 00:00:00
+West Indies,India,121,116,10,0,home,away,India,West Indies,1997-04-27 00:00:00
+West Indies,India,249,231,9,10,home,away,West Indies,West Indies,1997-04-30 00:00:00
+India,West Indies,199,200,7,0,away,home,West Indies,West Indies,1997-05-03 00:00:00
+New Zealand,Pakistan,285,263,7,9,away,away,New Zealand,India,1997-05-09 00:00:00
+Pakistan,Sri Lanka,289,259,6,10,away,away,Pakistan,India,1997-05-12 00:00:00
+New Zealand,India,220,221,9,2,away,home,India,India,1997-05-14 00:00:00
+India,Sri Lanka,225,229,7,5,home,away,Sri Lanka,India,1997-05-17 00:00:00
+Sri Lanka,New Zealand,214,162,10,10,away,away,Sri Lanka,India,1997-05-20 00:00:00
+Pakistan,India,327,292,5,10,away,home,Pakistan,India,1997-05-21 00:00:00
+Australia,England,170,175,8,4,away,home,England,England,1997-05-22 00:00:00
+Sri Lanka,Pakistan,339,224,4,10,away,away,Sri Lanka,India,1997-05-24 00:00:00
+Australia,England,249,253,6,4,away,home,England,England,1997-05-24 00:00:00
+Australia,England,269,270,10,4,away,home,England,England,1997-05-25 00:00:00
+Sri Lanka,Pakistan,309,224,10,10,away,away,Sri Lanka,India,1997-05-27 00:00:00
+West Indies,Sri Lanka,283,248,7,8,home,away,West Indies,West Indies,1997-06-06 00:00:00
+Sri Lanka,Pakistan,239,224,10,9,home,away,Sri Lanka,Sri Lanka,1997-07-14 00:00:00
+Pakistan,Bangladesh,319,210,5,10,away,away,Pakistan,Sri Lanka,1997-07-16 00:00:00
+India,Sri Lanka,227,231,6,4,away,home,Sri Lanka,Sri Lanka,1997-07-18 00:00:00
+Sri Lanka,Bangladesh,296,193,4,8,home,away,Sri Lanka,Sri Lanka,1997-07-22 00:00:00
+Bangladesh,India,130,132,8,1,away,away,India,Sri Lanka,1997-07-24 00:00:00
+India,Sri Lanka,239,240,7,2,away,home,Sri Lanka,Sri Lanka,1997-07-26 00:00:00
+Sri Lanka,India,302,300,4,7,home,away,Sri Lanka,Sri Lanka,1997-08-17 00:00:00
+India,Sri Lanka,238,241,10,3,away,home,Sri Lanka,Sri Lanka,1997-08-20 00:00:00
+Sri Lanka,India,264,255,10,8,home,away,Sri Lanka,Sri Lanka,1997-08-24 00:00:00
+India,Pakistan,208,188,10,10,away,away,India,Canada,1997-09-13 00:00:00
+Pakistan,India,116,117,10,3,away,away,India,Canada,1997-09-14 00:00:00
+India,Pakistan,182,148,6,10,away,away,India,Canada,1997-09-18 00:00:00
+Pakistan,India,159,162,6,3,away,away,India,Canada,1997-09-20 00:00:00
+India,Pakistan,250,251,5,5,away,away,Pakistan,Canada,1997-09-21 00:00:00
+India,Pakistan,170,171,10,5,away,home,Pakistan,Pakistan,1997-09-28 00:00:00
+Pakistan,India,265,266,4,6,home,away,India,Pakistan,1997-09-30 00:00:00
+Zimbabwe,New Zealand,233,233,8,9,home,away,Match tied,Zimbabwe,1997-10-01 00:00:00
+India,Pakistan,216,219,10,1,away,home,Pakistan,Pakistan,1997-10-02 00:00:00
+New Zealand,Zimbabwe,185,188,7,7,away,home,Zimbabwe,Zimbabwe,1997-10-04 00:00:00
+New Zealand,Zimbabwe,294,211,7,10,away,home,New Zealand,Zimbabwe,1997-10-05 00:00:00
+Kenya,Bangladesh,347,197,3,10,home,away,Kenya,Kenya,1997-10-10 00:00:00
+Zimbabwe,Bangladesh,305,257,4,10,away,away,Zimbabwe,Kenya,1997-10-11 00:00:00
+Kenya,Zimbabwe,249,244,8,4,home,away,Zimbabwe,Kenya,1997-10-12 00:00:00
+Zimbabwe,Bangladesh,284,92,10,10,away,away,Zimbabwe,Kenya,1997-10-14 00:00:00
+Bangladesh,Kenya,100,102,10,2,away,home,Kenya,Kenya,1997-10-15 00:00:00
+Kenya,Zimbabwe,207,210,9,3,home,away,Zimbabwe,Kenya,1997-10-16 00:00:00
+Zimbabwe,Kenya,281,172,8,7,away,home,Zimbabwe,Kenya,1997-10-18 00:00:00
+Zimbabwe,Kenya,272,190,6,10,away,home,Zimbabwe,Kenya,1997-10-19 00:00:00
+West Indies,Sri Lanka,237,240,8,3,away,away,Sri Lanka,Pakistan,1997-11-01 00:00:00
+South Africa,Pakistan,271,262,10,9,away,home,South Africa,Pakistan,1997-11-02 00:00:00
+West Indies,South Africa,293,297,8,5,away,away,South Africa,Pakistan,1997-11-03 00:00:00
+West Indies,Pakistan,215,219,7,2,away,home,Pakistan,Pakistan,1997-11-04 00:00:00
+Pakistan,Sri Lanka,280,281,10,2,home,away,Sri Lanka,Pakistan,1997-11-05 00:00:00
+South Africa,Sri Lanka,311,245,9,9,away,away,South Africa,Pakistan,1997-11-06 00:00:00
+Sri Lanka,South Africa,209,210,7,6,away,away,South Africa,Pakistan,1997-11-08 00:00:00
+South Africa,Australia,200,133,10,10,away,home,South Africa,Australia,1997-12-04 00:00:00
+New Zealand,South Africa,224,177,6,10,away,away,New Zealand,Australia,1997-12-06 00:00:00
+New Zealand,Australia,260,263,7,7,away,home,Australia,Australia,1997-12-07 00:00:00
+South Africa,Australia,170,125,8,10,away,home,South Africa,Australia,1997-12-09 00:00:00
+South Africa,New Zealand,174,173,9,7,away,away,South Africa,Australia,1997-12-11 00:00:00
+England,India,250,243,10,10,away,away,England,United Arab Emirates,1997-12-11 00:00:00
+West Indies,Pakistan,275,232,7,10,away,away,West Indies,United Arab Emirates,1997-12-12 00:00:00
+West Indies,England,197,198,7,6,away,away,England,United Arab Emirates,1997-12-13 00:00:00
+India,Pakistan,239,243,7,6,away,away,Pakistan,United Arab Emirates,1997-12-14 00:00:00
+England,Pakistan,215,207,9,10,away,away,England,United Arab Emirates,1997-12-15 00:00:00
+West Indies,India,229,188,6,10,away,away,West Indies,United Arab Emirates,1997-12-16 00:00:00
+New Zealand,Australia,141,142,10,4,away,home,Australia,Australia,1997-12-17 00:00:00
+West Indies,England,235,239,7,7,away,away,England,United Arab Emirates,1997-12-19 00:00:00
+Sri Lanka,India,172,173,9,3,away,home,India,India,1997-12-22 00:00:00
+India,Sri Lanka,228,229,6,5,home,away,Sri Lanka,India,1997-12-28 00:00:00
+South Africa,New Zealand,300,298,6,9,away,away,South Africa,Australia,1998-01-09 00:00:00
+Bangladesh,India,190,191,10,6,home,away,India,Bangladesh,1998-01-10 00:00:00
+India,Pakistan,245,227,7,9,away,away,India,Bangladesh,1998-01-11 00:00:00
+Australia,South Africa,235,236,8,5,home,away,South Africa,Australia,1998-01-11 00:00:00
+Bangladesh,Pakistan,134,136,10,1,home,away,Pakistan,Bangladesh,1998-01-12 00:00:00
+Pakistan,India,212,213,8,2,away,away,India,Bangladesh,1998-01-14 00:00:00
+Australia,New Zealand,250,119,10,10,home,away,Australia,Australia,1998-01-14 00:00:00
+India,Pakistan,189,193,10,4,away,away,Pakistan,Bangladesh,1998-01-16 00:00:00
+South Africa,New Zealand,233,166,7,10,away,away,South Africa,Australia,1998-01-16 00:00:00
+Pakistan,India,314,316,5,7,away,away,India,Bangladesh,1998-01-18 00:00:00
+Australia,South Africa,165,170,10,3,home,away,South Africa,Australia,1998-01-18 00:00:00
+Australia,New Zealand,251,253,4,6,home,away,New Zealand,Australia,1998-01-21 00:00:00
+Zimbabwe,Sri Lanka,207,210,10,5,away,home,Sri Lanka,Sri Lanka,1998-01-22 00:00:00
+South Africa,Australia,241,235,9,10,away,home,South Africa,Australia,1998-01-23 00:00:00
+Zimbabwe,Sri Lanka,212,213,8,5,away,home,Sri Lanka,Sri Lanka,1998-01-24 00:00:00
+South Africa,Australia,228,229,6,3,away,home,Australia,Australia,1998-01-26 00:00:00
+Zimbabwe,Sri Lanka,281,286,6,6,away,home,Sri Lanka,Sri Lanka,1998-01-26 00:00:00
+Australia,South Africa,247,233,7,10,home,away,Australia,Australia,1998-01-27 00:00:00
+New Zealand,Zimbabwe,248,208,7,10,home,away,New Zealand,New Zealand,1998-02-04 00:00:00
+Zimbabwe,New Zealand,138,139,10,2,away,home,New Zealand,New Zealand,1998-02-06 00:00:00
+New Zealand,Australia,212,215,7,3,home,away,Australia,New Zealand,1998-02-08 00:00:00
+Australia,New Zealand,297,231,6,10,away,home,Australia,New Zealand,1998-02-10 00:00:00
+Australia,New Zealand,236,240,10,3,away,home,New Zealand,New Zealand,1998-02-12 00:00:00
+New Zealand,Australia,223,193,7,10,home,away,New Zealand,New Zealand,1998-02-14 00:00:00
+Zimbabwe,New Zealand,228,227,7,9,away,home,Zimbabwe,New Zealand,1998-03-04 00:00:00
+Zimbabwe,New Zealand,207,211,8,1,away,home,New Zealand,New Zealand,1998-03-06 00:00:00
+New Zealand,Zimbabwe,231,229,9,9,home,away,New Zealand,New Zealand,1998-03-08 00:00:00
+Zimbabwe,Pakistan,236,237,6,6,home,away,Pakistan,Zimbabwe,1998-03-28 00:00:00
+Zimbabwe,Pakistan,272,276,4,6,home,away,Pakistan,Zimbabwe,1998-03-29 00:00:00
+England,West Indies,293,277,5,10,away,home,England,West Indies,1998-03-29 00:00:00
+India,Australia,309,268,5,10,home,away,India,India,1998-04-01 00:00:00
+England,West Indies,266,267,10,9,away,home,West Indies,West Indies,1998-04-01 00:00:00
+Australia,Zimbabwe,252,239,7,10,away,away,Australia,India,1998-04-03 00:00:00
+South Africa,Pakistan,280,228,4,10,home,away,South Africa,South Africa,1998-04-03 00:00:00
+England,West Indies,209,213,8,5,away,home,West Indies,West Indies,1998-04-04 00:00:00
+India,Zimbabwe,274,261,5,10,home,away,India,India,1998-04-05 00:00:00
+South Africa,Sri Lanka,266,209,8,10,home,away,South Africa,South Africa,1998-04-05 00:00:00
+England,West Indies,149,150,10,6,away,home,West Indies,West Indies,1998-04-05 00:00:00
+Australia,India,222,223,9,4,away,home,India,India,1998-04-07 00:00:00
+Sri Lanka,Pakistan,295,300,7,6,away,away,Pakistan,South Africa,1998-04-07 00:00:00
+West Indies,England,302,245,5,10,home,away,West Indies,West Indies,1998-04-08 00:00:00
+India,Zimbabwe,301,269,3,10,home,away,India,India,1998-04-09 00:00:00
+Pakistan,Sri Lanka,249,139,10,10,away,away,Pakistan,South Africa,1998-04-09 00:00:00
+Australia,Zimbabwe,294,278,3,9,away,away,Australia,India,1998-04-11 00:00:00
+Pakistan,South Africa,250,254,8,7,away,home,South Africa,South Africa,1998-04-11 00:00:00
+South Africa,Sri Lanka,231,232,10,4,home,away,Sri Lanka,South Africa,1998-04-13 00:00:00
+India,Australia,227,231,10,6,home,away,Australia,India,1998-04-14 00:00:00
+Sri Lanka,Pakistan,288,173,10,10,away,away,Sri Lanka,South Africa,1998-04-15 00:00:00
+Pakistan,South Africa,145,149,10,3,away,home,South Africa,South Africa,1998-04-17 00:00:00
+India,New Zealand,220,205,9,10,away,away,India,United Arab Emirates,1998-04-17 00:00:00
+New Zealand,Australia,159,160,10,4,away,away,Australia,United Arab Emirates,1998-04-18 00:00:00
+Sri Lanka,South Africa,105,106,10,5,away,home,South Africa,South Africa,1998-04-19 00:00:00
+Australia,India,264,206,9,10,away,away,Australia,United Arab Emirates,1998-04-19 00:00:00
+India,New Zealand,181,183,10,6,away,away,New Zealand,United Arab Emirates,1998-04-20 00:00:00
+New Zealand,Australia,259,261,5,5,away,away,Australia,United Arab Emirates,1998-04-21 00:00:00
+Australia,India,284,250,7,5,away,away,Australia,United Arab Emirates,1998-04-22 00:00:00
+Pakistan,South Africa,114,115,10,1,away,home,South Africa,South Africa,1998-04-23 00:00:00
+Australia,India,272,275,9,4,away,away,India,United Arab Emirates,1998-04-24 00:00:00
+Bangladesh,India,184,185,9,5,away,home,India,India,1998-05-14 00:00:00
+Kenya,Bangladesh,236,237,10,4,away,away,Bangladesh,India,1998-05-17 00:00:00
+Kenya,India,223,224,9,6,away,home,India,India,1998-05-20 00:00:00
+England,South Africa,223,224,9,7,home,away,South Africa,England,1998-05-21 00:00:00
+Kenya,Bangladesh,226,198,8,10,away,away,Kenya,India,1998-05-23 00:00:00
+South Africa,England,226,194,9,10,away,home,South Africa,England,1998-05-23 00:00:00
+South Africa,England,205,206,8,3,away,home,England,England,1998-05-24 00:00:00
+Bangladesh,India,115,116,10,5,away,home,India,India,1998-05-25 00:00:00
+Kenya,India,265,196,5,10,away,home,Kenya,India,1998-05-28 00:00:00
+Kenya,India,196,197,10,1,away,home,India,India,1998-05-31 00:00:00
+Sri Lanka,India,243,246,6,2,home,away,India,Sri Lanka,1998-06-19 00:00:00
+New Zealand,Sri Lanka,200,201,9,3,away,home,Sri Lanka,Sri Lanka,1998-06-21 00:00:00
+Sri Lanka,India,171,163,8,10,home,away,Sri Lanka,Sri Lanka,1998-07-01 00:00:00
+Sri Lanka,New Zealand,293,206,4,10,home,away,Sri Lanka,Sri Lanka,1998-07-05 00:00:00
+India,Sri Lanka,307,301,6,10,away,home,India,Sri Lanka,1998-07-07 00:00:00
+Sri Lanka,South Africa,258,201,10,10,away,away,Sri Lanka,England,1998-08-14 00:00:00
+England,Sri Lanka,247,211,10,10,home,away,England,England,1998-08-16 00:00:00
+South Africa,England,244,230,7,10,away,home,South Africa,England,1998-08-18 00:00:00
+England,Sri Lanka,256,260,8,5,home,away,Sri Lanka,England,1998-08-20 00:00:00
+Pakistan,India,189,193,9,4,away,away,India,Canada,1998-09-12 00:00:00
+Pakistan,India,246,195,9,10,away,away,Pakistan,Canada,1998-09-13 00:00:00
+Pakistan,India,257,180,5,10,away,away,Pakistan,Canada,1998-09-16 00:00:00
+Pakistan,India,316,182,6,10,away,away,Pakistan,Canada,1998-09-19 00:00:00
+India,Pakistan,256,258,9,5,away,away,Pakistan,Canada,1998-09-20 00:00:00
+Zimbabwe,India,213,216,10,2,home,away,India,Zimbabwe,1998-09-26 00:00:00
+Zimbabwe,India,235,236,7,2,home,away,India,Zimbabwe,1998-09-27 00:00:00
+Zimbabwe,India,259,222,5,10,home,away,Zimbabwe,Zimbabwe,1998-09-30 00:00:00
+Zimbabwe,New Zealand,258,260,7,5,away,away,New Zealand,Bangladesh,1998-10-24 00:00:00
+England,South Africa,281,283,7,4,away,away,South Africa,Bangladesh,1998-10-25 00:00:00
+New Zealand,Sri Lanka,188,191,10,5,away,away,Sri Lanka,Bangladesh,1998-10-26 00:00:00
+India,Australia,307,263,8,10,away,away,India,Bangladesh,1998-10-28 00:00:00
+West Indies,Pakistan,289,259,9,9,away,away,West Indies,Bangladesh,1998-10-29 00:00:00
+South Africa,Sri Lanka,240,132,7,10,away,away,South Africa,Bangladesh,1998-10-30 00:00:00
+India,West Indies,242,245,6,4,away,away,West Indies,Bangladesh,1998-10-31 00:00:00
+West Indies,South Africa,245,248,10,6,away,away,South Africa,Bangladesh,1998-11-01 00:00:00
+Australia,Pakistan,324,238,8,10,away,home,Australia,Pakistan,1998-11-06 00:00:00
+Sri Lanka,India,245,248,7,7,away,away,India,United Arab Emirates,1998-11-06 00:00:00
+Sri Lanka,Zimbabwe,196,197,10,3,away,away,Zimbabwe,United Arab Emirates,1998-11-07 00:00:00
+Pakistan,Australia,217,220,7,5,home,away,Australia,Pakistan,1998-11-08 00:00:00
+Zimbabwe,India,196,197,10,3,away,away,India,United Arab Emirates,1998-11-08 00:00:00
+India,Sri Lanka,179,98,10,10,away,away,India,United Arab Emirates,1998-11-09 00:00:00
+Pakistan,Australia,315,316,8,4,home,away,Australia,Pakistan,1998-11-10 00:00:00
+Zimbabwe,Sri Lanka,259,235,7,10,away,away,Zimbabwe,United Arab Emirates,1998-11-10 00:00:00
+Zimbabwe,India,205,192,7,10,away,away,Zimbabwe,United Arab Emirates,1998-11-11 00:00:00
+Zimbabwe,India,196,197,9,0,away,away,India,United Arab Emirates,1998-11-13 00:00:00
+Zimbabwe,Pakistan,237,241,10,6,away,home,Pakistan,Pakistan,1998-11-20 00:00:00
+Pakistan,Zimbabwe,211,212,10,4,home,away,Zimbabwe,Pakistan,1998-11-22 00:00:00
+Pakistan,Zimbabwe,302,191,6,10,home,away,Pakistan,Pakistan,1998-11-24 00:00:00
+India,New Zealand,257,200,5,5,away,home,New Zealand,New Zealand,1999-01-09 00:00:00
+England,Australia,178,145,8,9,away,home,England,Australia,1999-01-10 00:00:00
+Sri Lanka,England,207,208,7,6,away,away,England,Australia,1999-01-11 00:00:00
+New Zealand,India,213,214,10,8,home,away,India,New Zealand,1999-01-12 00:00:00
+Sri Lanka,Australia,259,260,9,2,away,home,Australia,Australia,1999-01-13 00:00:00
+England,Australia,178,182,10,1,away,home,Australia,Australia,1999-01-15 00:00:00
+New Zealand,India,207,208,7,5,home,away,India,New Zealand,1999-01-16 00:00:00
+England,Australia,282,275,4,6,away,home,England,Australia,1999-01-17 00:00:00
+New Zealand,India,300,230,8,10,home,away,New Zealand,New Zealand,1999-01-19 00:00:00
+Sri Lanka,England,186,189,10,3,away,away,England,Australia,1999-01-19 00:00:00
+Australia,Sri Lanka,210,211,9,7,home,away,Sri Lanka,Australia,1999-01-21 00:00:00
+West Indies,South Africa,154,160,4,8,away,home,South Africa,South Africa,1999-01-22 00:00:00
+England,Sri Lanka,302,303,3,9,away,away,Sri Lanka,Australia,1999-01-23 00:00:00
+Australia,Sri Lanka,270,190,10,10,home,away,Australia,Australia,1999-01-24 00:00:00
+West Indies,South Africa,292,249,9,10,away,home,West Indies,South Africa,1999-01-24 00:00:00
+Australia,England,239,223,8,10,home,away,Australia,Australia,1999-01-26 00:00:00
+South Africa,West Indies,274,219,9,10,home,away,South Africa,South Africa,1999-01-27 00:00:00
+England,Sri Lanka,227,99,7,10,away,away,England,Australia,1999-01-29 00:00:00
+South Africa,West Indies,278,179,6,10,home,away,South Africa,South Africa,1999-01-30 00:00:00
+Australia,Sri Lanka,274,229,7,10,home,away,Australia,Australia,1999-01-31 00:00:00
+South Africa,West Indies,221,132,8,10,home,away,South Africa,South Africa,1999-02-02 00:00:00
+Sri Lanka,England,181,170,7,9,away,away,Sri Lanka,Australia,1999-02-03 00:00:00
+England,Australia,210,211,8,6,away,home,Australia,Australia,1999-02-05 00:00:00
+South Africa,West Indies,273,159,10,10,home,away,South Africa,South Africa,1999-02-05 00:00:00
+Australia,Sri Lanka,310,267,8,10,home,away,Australia,Australia,1999-02-07 00:00:00
+South Africa,West Indies,226,176,8,10,home,away,South Africa,South Africa,1999-02-07 00:00:00
+Australia,England,232,222,8,10,home,away,Australia,Australia,1999-02-10 00:00:00
+Australia,England,272,110,5,10,home,away,Australia,Australia,1999-02-13 00:00:00
+South Africa,New Zealand,211,215,10,7,away,home,New Zealand,New Zealand,1999-02-14 00:00:00
+New Zealand,South Africa,220,224,9,3,home,away,South Africa,New Zealand,1999-02-17 00:00:00
+South Africa,New Zealand,212,215,7,3,away,home,New Zealand,New Zealand,1999-02-20 00:00:00
+Pakistan,Bangladesh,293,141,7,10,away,home,Pakistan,Bangladesh,1999-03-16 00:00:00
+Pakistan,Sri Lanka,246,237,9,10,away,away,Pakistan,India,1999-03-19 00:00:00
+Zimbabwe,Kenya,272,139,6,10,away,away,Zimbabwe,Bangladesh,1999-03-19 00:00:00
+Bangladesh,Kenya,213,215,10,2,home,away,Kenya,Bangladesh,1999-03-20 00:00:00
+Zimbabwe,Bangladesh,310,184,6,10,away,home,Zimbabwe,Bangladesh,1999-03-21 00:00:00
+India,Sri Lanka,287,207,4,10,home,away,India,India,1999-03-22 00:00:00
+Zimbabwe,Kenya,280,216,6,8,away,away,Zimbabwe,Bangladesh,1999-03-23 00:00:00
+Pakistan,India,278,135,9,10,away,home,Pakistan,India,1999-03-24 00:00:00
+Kenya,Bangladesh,231,158,10,10,away,home,Kenya,Bangladesh,1999-03-24 00:00:00
+Bangladesh,Zimbabwe,257,261,5,7,home,away,Zimbabwe,Bangladesh,1999-03-25 00:00:00
+New Zealand,South Africa,191,194,10,8,home,away,South Africa,New Zealand,1999-03-26 00:00:00
+South Africa,New Zealand,290,147,5,10,away,home,South Africa,New Zealand,1999-03-27 00:00:00
+Sri Lanka,Pakistan,253,241,8,10,away,away,Sri Lanka,India,1999-03-27 00:00:00
+Zimbabwe,Kenya,325,123,6,10,away,away,Zimbabwe,Bangladesh,1999-03-27 00:00:00
+India,Sri Lanka,286,235,6,10,home,away,India,India,1999-03-30 00:00:00
+India,Pakistan,196,197,10,3,home,away,Pakistan,India,1999-04-01 00:00:00
+Pakistan,India,291,168,8,10,away,home,Pakistan,India,1999-04-04 00:00:00
+Pakistan,England,323,233,5,10,away,away,Pakistan,United Arab Emirates,1999-04-07 00:00:00
+Pakistan,India,279,163,8,6,away,away,Pakistan,United Arab Emirates,1999-04-08 00:00:00
+India,England,222,202,5,10,away,away,India,United Arab Emirates,1999-04-09 00:00:00
+India,England,239,230,6,10,away,away,India,United Arab Emirates,1999-04-11 00:00:00
+West Indies,Australia,209,165,10,10,home,away,West Indies,West Indies,1999-04-11 00:00:00
+England,Pakistan,206,144,10,10,away,away,England,United Arab Emirates,1999-04-12 00:00:00
+Pakistan,India,205,206,9,4,away,away,India,United Arab Emirates,1999-04-13 00:00:00
+Australia,West Indies,288,242,4,10,away,away,Australia,Grenada,1999-04-14 00:00:00
+India,Pakistan,125,129,10,2,away,away,Pakistan,United Arab Emirates,1999-04-16 00:00:00
+Australia,West Indies,242,244,7,5,away,home,West Indies,West Indies,1999-04-17 00:00:00
+Australia,West Indies,189,169,9,10,away,home,Australia,West Indies,1999-04-18 00:00:00
+West Indies,Australia,173,173,5,7,away,away,Match tied,Guyana,1999-04-21 00:00:00
+West Indies,Australia,249,253,8,6,home,away,Australia,West Indies,1999-04-24 00:00:00
+Australia,West Indies,252,197,9,2,away,home,West Indies,West Indies,1999-04-25 00:00:00
+Sri Lanka,England,204,207,10,2,away,home,England,England,1999-05-14 00:00:00
+India,South Africa,253,254,5,6,away,away,South Africa,England,1999-05-15 00:00:00
+Kenya,Zimbabwe,229,231,7,5,away,away,Zimbabwe,England,1999-05-15 00:00:00
+Scotland,Australia,181,182,7,4,away,away,Australia,England,1999-05-16 00:00:00
+Pakistan,West Indies,229,202,8,10,away,away,Pakistan,England,1999-05-16 00:00:00
+Bangladesh,New Zealand,116,117,10,4,away,away,New Zealand,England,1999-05-17 00:00:00
+Kenya,England,203,204,10,1,away,home,England,England,1999-05-18 00:00:00
+Zimbabwe,India,252,249,9,10,away,away,Zimbabwe,England,1999-05-19 00:00:00
+South Africa,Sri Lanka,199,110,9,10,away,away,South Africa,England,1999-05-19 00:00:00
+Australia,New Zealand,213,214,8,5,away,away,New Zealand,Wales,1999-05-20 00:00:00
+Pakistan,Scotland,261,167,6,10,away,away,Pakistan,England,1999-05-20 00:00:00
+Bangladesh,West Indies,182,183,10,3,away,away,West Indies,Ireland,1999-05-21 00:00:00
+South Africa,England,225,103,7,10,away,home,South Africa,England,1999-05-22 00:00:00
+Zimbabwe,Sri Lanka,197,198,9,6,away,away,Sri Lanka,England,1999-05-22 00:00:00
+India,Kenya,329,235,2,7,away,away,India,England,1999-05-23 00:00:00
+Pakistan,Australia,275,265,8,10,away,away,Pakistan,England,1999-05-23 00:00:00
+Bangladesh,Scotland,185,163,9,10,away,away,Bangladesh,Midlothian,1999-05-24 00:00:00
+New Zealand,West Indies,156,158,10,3,away,away,West Indies,England,1999-05-24 00:00:00
+Zimbabwe,England,167,168,8,3,away,home,England,England,1999-05-25 00:00:00
+Kenya,South Africa,152,153,10,3,away,away,South Africa,Netherlands,1999-05-26 00:00:00
+India,Sri Lanka,373,216,6,10,away,away,India,England,1999-05-26 00:00:00
+Bangladesh,Australia,178,181,7,3,away,away,Australia,England,1999-05-27 00:00:00
+Scotland,West Indies,68,70,10,2,away,away,West Indies,England,1999-05-27 00:00:00
+Pakistan,New Zealand,269,207,8,8,away,away,Pakistan,England,1999-05-28 00:00:00
+Zimbabwe,South Africa,233,185,6,10,away,away,Zimbabwe,England,1999-05-29 00:00:00
+Sri Lanka,Kenya,275,230,8,6,away,away,Sri Lanka,England,1999-05-30 00:00:00
+West Indies,Australia,110,111,10,4,away,away,Australia,England,1999-05-30 00:00:00
+Bangladesh,Pakistan,223,161,9,10,away,away,Bangladesh,England,1999-05-31 00:00:00
+Scotland,New Zealand,121,123,10,4,away,away,New Zealand,Midlothian,1999-05-31 00:00:00
+Australia,India,282,205,6,10,away,away,Australia,England,1999-06-04 00:00:00
+Pakistan,South Africa,220,221,7,7,away,away,South Africa,England,1999-06-05 00:00:00
+India,Pakistan,227,180,6,10,away,away,India,England,1999-06-08 00:00:00
+Australia,Zimbabwe,303,259,4,6,away,away,Australia,England,1999-06-09 00:00:00
+South Africa,New Zealand,287,213,5,8,away,away,South Africa,England,1999-06-10 00:00:00
+Pakistan,Zimbabwe,271,123,9,10,away,away,Pakistan,England,1999-06-11 00:00:00
+India,New Zealand,251,253,6,5,away,away,New Zealand,England,1999-06-12 00:00:00
+South Africa,Australia,271,272,7,5,away,away,Australia,England,1999-06-13 00:00:00
+New Zealand,Pakistan,241,242,7,1,away,away,Pakistan,England,1999-06-16 00:00:00
+Australia,South Africa,213,213,10,10,away,away,Match tied,England,1999-06-17 00:00:00
+Pakistan,Australia,132,133,10,2,away,away,Australia,England,1999-06-20 00:00:00
+Australia,Sri Lanka,205,160,9,10,away,home,Australia,Sri Lanka,1999-08-22 00:00:00
+India,Australia,151,159,7,2,away,away,Australia,Sri Lanka,1999-08-23 00:00:00
+India,Sri Lanka,205,206,8,3,away,home,Sri Lanka,Sri Lanka,1999-08-25 00:00:00
+Australia,Sri Lanka,241,214,9,10,away,home,Australia,Sri Lanka,1999-08-26 00:00:00
+Australia,India,252,211,8,10,away,away,Australia,Sri Lanka,1999-08-28 00:00:00
+India,Sri Lanka,296,247,4,9,away,home,India,Sri Lanka,1999-08-29 00:00:00
+Australia,Sri Lanka,202,208,10,2,away,home,Sri Lanka,Sri Lanka,1999-08-31 00:00:00
+Zimbabwe,West Indies,244,247,9,4,away,away,West Indies,Singapore,1999-09-02 00:00:00
+India,Zimbabwe,245,130,6,8,away,away,India,Singapore,1999-09-04 00:00:00
+West Indies,India,196,154,7,8,away,away,West Indies,Singapore,1999-09-05 00:00:00
+India,West Indies,254,255,6,6,away,away,West Indies,Singapore,1999-09-08 00:00:00
+West Indies,India,163,165,10,2,away,away,India,Canada,1999-09-11 00:00:00
+West Indies,India,190,120,6,10,away,away,West Indies,Canada,1999-09-12 00:00:00
+India,West Indies,225,137,7,10,away,away,India,Canada,1999-09-14 00:00:00
+Pakistan,West Indies,230,215,6,9,away,away,Pakistan,Canada,1999-09-16 00:00:00
+Pakistan,West Indies,222,180,5,10,away,away,Pakistan,Canada,1999-09-18 00:00:00
+West Indies,Pakistan,161,162,10,3,away,away,Pakistan,Canada,1999-09-19 00:00:00
+Kenya,Zimbabwe,199,200,8,7,home,away,Zimbabwe,Kenya,1999-09-25 00:00:00
+South Africa,India,117,120,10,2,away,away,India,Kenya,1999-09-26 00:00:00
+Zimbabwe,South Africa,216,217,10,1,away,away,South Africa,Kenya,1999-09-28 00:00:00
+India,Kenya,220,162,7,10,away,home,India,Kenya,1999-09-29 00:00:00
+South Africa,Kenya,220,196,7,10,away,home,South Africa,Kenya,1999-09-30 00:00:00
+India,Zimbabwe,277,170,6,10,away,away,India,Kenya,1999-10-01 00:00:00
+South Africa,India,235,209,9,10,away,away,South Africa,Kenya,1999-10-03 00:00:00
+West Indies,Bangladesh,292,219,6,5,away,home,West Indies,Bangladesh,1999-10-08 00:00:00
+West Indies,Bangladesh,314,205,6,10,away,home,West Indies,Bangladesh,1999-10-09 00:00:00
+Sri Lanka,West Indies,178,181,10,7,away,away,West Indies,United Arab Emirates,1999-10-13 00:00:00
+Pakistan,West Indies,260,130,5,10,away,away,Pakistan,United Arab Emirates,1999-10-14 00:00:00
+Pakistan,Sri Lanka,196,196,10,10,away,away,Match tied,United Arab Emirates,1999-10-15 00:00:00
+West Indies,Sri Lanka,145,146,10,1,away,away,Sri Lanka,United Arab Emirates,1999-10-17 00:00:00
+Pakistan,Sri Lanka,239,121,8,10,away,away,Pakistan,United Arab Emirates,1999-10-18 00:00:00
+Pakistan,West Indies,255,117,5,10,away,away,Pakistan,United Arab Emirates,1999-10-19 00:00:00
+Australia,Zimbabwe,303,220,6,10,away,home,Australia,Zimbabwe,1999-10-21 00:00:00
+Pakistan,Sri Lanka,211,123,9,10,away,away,Pakistan,United Arab Emirates,1999-10-22 00:00:00
+Zimbabwe,Australia,116,117,10,1,home,away,Australia,Zimbabwe,1999-10-23 00:00:00
+Zimbabwe,Australia,200,201,9,1,home,away,Australia,Zimbabwe,1999-10-24 00:00:00
+New Zealand,India,349,306,9,10,away,home,New Zealand,India,1999-11-05 00:00:00
+India,New Zealand,376,202,2,10,home,away,India,India,1999-11-08 00:00:00
+India,New Zealand,261,247,5,8,home,away,India,India,1999-11-11 00:00:00
+New Zealand,India,236,188,9,10,away,home,New Zealand,India,1999-11-14 00:00:00
+New Zealand,India,179,181,9,3,away,home,India,India,1999-11-17 00:00:00
+Sri Lanka,Zimbabwe,213,200,10,10,away,home,Sri Lanka,Zimbabwe,1999-12-12 00:00:00
+Sri Lanka,Zimbabwe,248,150,7,10,away,home,Sri Lanka,Zimbabwe,1999-12-15 00:00:00
+Zimbabwe,Sri Lanka,260,262,4,4,home,away,Sri Lanka,Zimbabwe,1999-12-18 00:00:00
+Sri Lanka,Zimbabwe,202,206,10,4,away,home,Zimbabwe,Zimbabwe,1999-12-19 00:00:00
+West Indies,New Zealand,268,250,7,7,away,home,New Zealand,New Zealand,2000-01-02 00:00:00
+West Indies,New Zealand,192,194,10,3,away,home,New Zealand,New Zealand,2000-01-04 00:00:00
+West Indies,New Zealand,159,160,10,6,away,home,New Zealand,New Zealand,2000-01-06 00:00:00
+West Indies,New Zealand,171,172,9,2,away,home,New Zealand,New Zealand,2009-01-08 20:00:00
+Pakistan,Australia,184,139,8,10,away,home,Pakistan,Australia,2000-01-09 00:00:00
+India,Pakistan,195,196,10,8,away,away,Pakistan,Australia,2000-01-10 00:00:00
+New Zealand,West Indies,302,282,6,10,home,away,New Zealand,New Zealand,2000-01-11 00:00:00
+Australia,India,269,241,7,6,home,away,Australia,Australia,2000-01-12 00:00:00
+India,Australia,100,101,10,5,away,home,Australia,Australia,2000-01-14 00:00:00
+Pakistan,Australia,176,177,9,4,away,home,Australia,Australia,2000-01-16 00:00:00
+Australia,Pakistan,286,205,10,10,home,away,Australia,Australia,2000-01-19 00:00:00
+Pakistan,India,262,230,7,10,away,away,Pakistan,Australia,2000-01-21 00:00:00
+Zimbabwe,South Africa,226,229,10,4,away,home,South Africa,South Africa,2000-01-21 00:00:00
+Australia,Pakistan,260,245,9,10,home,away,Australia,Australia,2000-01-23 00:00:00
+South Africa,England,184,185,10,1,home,away,England,South Africa,2000-01-23 00:00:00
+India,Pakistan,267,219,6,10,away,away,India,Australia,2000-01-25 00:00:00
+Australia,India,329,177,5,10,home,away,Australia,Australia,2000-01-26 00:00:00
+South Africa,England,204,203,7,9,home,away,South Africa,South Africa,2000-01-26 00:00:00
+Pakistan,India,261,157,8,10,away,away,Pakistan,Australia,2000-01-28 00:00:00
+Zimbabwe,England,211,107,7,10,away,away,Zimbabwe,South Africa,2000-01-28 00:00:00
+India,Australia,226,230,6,6,away,home,Australia,Australia,2000-01-30 00:00:00
+Zimbabwe,England,161,162,9,2,away,away,England,South Africa,2000-01-30 00:00:00
+Pakistan,Australia,154,155,10,4,away,home,Australia,Australia,2000-02-02 00:00:00
+South Africa,Zimbabwe,222,223,7,8,home,away,Zimbabwe,South Africa,2000-02-02 00:00:00
+Australia,Pakistan,337,185,7,10,home,away,Australia,Australia,2000-02-04 00:00:00
+England,South Africa,231,233,6,8,away,home,South Africa,South Africa,2000-02-04 00:00:00
+South Africa,Zimbabwe,204,151,7,10,home,away,South Africa,South Africa,2000-02-06 00:00:00
+Sri Lanka,Pakistan,274,245,8,10,away,home,Sri Lanka,Pakistan,2000-02-13 00:00:00
+South Africa,England,149,111,10,10,home,away,South Africa,South Africa,2000-02-13 00:00:00
+Sri Lanka,Pakistan,263,229,6,10,away,home,Sri Lanka,Pakistan,2000-02-16 00:00:00
+Zimbabwe,England,194,199,7,5,home,away,England,Zimbabwe,2000-02-16 00:00:00
+Zimbabwe,England,131,134,10,9,home,away,England,Zimbabwe,2000-02-18 00:00:00
+New Zealand,Australia,122,123,10,5,home,away,Australia,New Zealand,2000-02-19 00:00:00
+Sri Lanka,Pakistan,241,137,9,10,away,home,Sri Lanka,Pakistan,2000-02-19 00:00:00
+England,Zimbabwe,248,163,7,10,away,home,England,Zimbabwe,2000-02-20 00:00:00
+Australia,New Zealand,310,260,4,10,away,home,Australia,New Zealand,2000-02-23 00:00:00
+Australia,New Zealand,349,301,6,9,away,home,Australia,New Zealand,2000-02-26 00:00:00
+New Zealand,Australia,243,245,9,5,home,away,Australia,New Zealand,2000-03-01 00:00:00
+Australia,New Zealand,191,194,10,3,away,home,New Zealand,New Zealand,2000-03-03 00:00:00
+South Africa,India,301,302,3,7,away,home,India,India,2000-03-09 00:00:00
+South Africa,India,199,203,10,4,away,home,India,India,2000-03-12 00:00:00
+India,South Africa,248,251,8,8,home,away,South Africa,India,2000-03-15 00:00:00
+South Africa,India,282,283,5,6,away,home,India,India,2000-03-17 00:00:00
+South Africa,India,320,310,7,10,away,home,South Africa,India,2000-03-19 00:00:00
+India,South Africa,164,168,10,0,away,away,South Africa,United Arab Emirates,2000-03-22 00:00:00
+Pakistan,India,146,149,10,5,away,away,India,United Arab Emirates,2000-03-23 00:00:00
+Pakistan,South Africa,196,199,8,7,away,away,South Africa,United Arab Emirates,2000-03-24 00:00:00
+Pakistan,India,272,174,3,9,away,away,Pakistan,United Arab Emirates,2000-03-26 00:00:00
+India,South Africa,164,167,10,4,away,away,South Africa,United Arab Emirates,2000-03-27 00:00:00
+Pakistan,South Africa,168,101,10,10,away,away,Pakistan,United Arab Emirates,2000-03-28 00:00:00
+Pakistan,South Africa,263,247,6,10,away,away,Pakistan,United Arab Emirates,2000-03-31 00:00:00
+West Indies,Zimbabwe,237,150,9,10,home,away,West Indies,West Indies,2000-04-01 00:00:00
+West Indies,Zimbabwe,280,239,3,8,home,away,West Indies,West Indies,2000-04-02 00:00:00
+Zimbabwe,Pakistan,199,200,9,5,away,away,Pakistan,West Indies,2000-04-05 00:00:00
+Australia,South Africa,240,241,9,4,away,home,South Africa,South Africa,2000-04-12 00:00:00
+West Indies,Pakistan,213,117,7,10,home,away,West Indies,West Indies,2000-04-12 00:00:00
+South Africa,Australia,144,145,9,5,home,away,Australia,South Africa,2000-04-14 00:00:00
+Zimbabwe,Pakistan,204,205,7,4,away,away,Pakistan,Grenada,2000-04-15 00:00:00
+Australia,South Africa,205,209,10,6,away,home,South Africa,South Africa,2000-04-16 00:00:00
+West Indies,Pakistan,248,231,6,10,away,away,West Indies,Grenada,2000-04-16 00:00:00
+Pakistan,West Indies,197,180,8,10,away,home,Pakistan,West Indies,2000-04-19 00:00:00
+West Indies,Pakistan,208,148,8,10,home,away,West Indies,West Indies,2000-04-22 00:00:00
+West Indies,Pakistan,114,116,10,6,home,away,Pakistan,West Indies,2000-04-23 00:00:00
+Bangladesh,Sri Lanka,175,178,6,1,home,away,Sri Lanka,Bangladesh,2000-05-29 00:00:00
+Bangladesh,India,249,252,6,2,home,away,India,Bangladesh,2031-05-30 20:00:00
+Sri Lanka,India,276,205,8,10,away,away,Sri Lanka,Bangladesh,2000-06-01 00:00:00
+Pakistan,Bangladesh,320,87,3,10,away,home,Pakistan,Bangladesh,2000-06-02 00:00:00
+Pakistan,India,295,251,7,10,away,away,Pakistan,Bangladesh,2000-06-03 00:00:00
+Sri Lanka,Pakistan,192,193,10,3,away,away,Pakistan,Bangladesh,2000-06-05 00:00:00
+Pakistan,Sri Lanka,277,238,4,10,away,away,Pakistan,Bangladesh,2000-06-07 00:00:00
+Pakistan,Sri Lanka,164,166,8,5,away,home,Sri Lanka,Sri Lanka,2000-07-05 00:00:00
+Sri Lanka,South Africa,249,212,7,10,home,away,Sri Lanka,Sri Lanka,2000-07-06 00:00:00
+West Indies,Zimbabwe,232,233,7,4,away,away,Zimbabwe,England,2000-07-06 00:00:00
+South Africa,Pakistan,241,223,6,9,away,away,South Africa,Sri Lanka,2000-07-08 00:00:00
+England,Zimbabwe,207,210,10,5,home,away,Zimbabwe,England,2000-07-08 00:00:00
+Pakistan,Sri Lanka,240,244,6,4,away,home,Sri Lanka,Sri Lanka,2000-07-09 00:00:00
+South Africa,Sri Lanka,167,168,10,2,away,home,Sri Lanka,Sri Lanka,2000-07-11 00:00:00
+Zimbabwe,West Indies,256,186,4,8,away,away,Zimbabwe,England,2000-07-11 00:00:00
+Pakistan,South Africa,153,156,10,3,away,away,South Africa,Sri Lanka,2000-07-12 00:00:00
+Zimbabwe,England,114,115,10,2,away,home,England,England,2000-07-13 00:00:00
+Sri Lanka,South Africa,294,264,7,9,home,away,Sri Lanka,Sri Lanka,2000-07-14 00:00:00
+West Indies,England,169,171,8,0,away,home,England,England,2000-07-15 00:00:00
+West Indies,Zimbabwe,287,290,5,4,away,away,Zimbabwe,England,2000-07-16 00:00:00
+England,Zimbabwe,262,210,8,9,home,away,England,England,2000-07-18 00:00:00
+West Indies,England,195,192,9,10,away,home,West Indies,England,2000-07-20 00:00:00
+Zimbabwe,England,169,170,7,4,away,home,England,England,2000-07-22 00:00:00
+Australia,South Africa,295,201,5,7,home,away,Australia,Australia,2000-08-16 00:00:00
+South Africa,Australia,226,226,8,9,away,home,Match tied,Australia,2000-08-18 00:00:00
+South Africa,Australia,206,198,7,9,away,home,South Africa,Australia,2000-08-20 00:00:00
+Pakistan,New Zealand,191,179,6,10,away,away,Pakistan,Singapore,2000-08-20 00:00:00
+Pakistan,South Africa,227,199,9,10,away,away,Pakistan,Singapore,2000-08-23 00:00:00
+New Zealand,South Africa,158,159,10,2,away,away,South Africa,Singapore,2000-08-25 00:00:00
+South Africa,Pakistan,197,121,7,10,away,away,South Africa,Singapore,2000-08-27 00:00:00
+Zimbabwe,New Zealand,183,184,8,3,home,away,New Zealand,Zimbabwe,2000-09-27 00:00:00
+Zimbabwe,New Zealand,273,252,5,10,home,away,Zimbabwe,Zimbabwe,2000-09-30 00:00:00
+New Zealand,Zimbabwe,264,268,8,4,away,home,Zimbabwe,Zimbabwe,2000-10-01 00:00:00
+Kenya,India,208,209,9,2,home,away,India,Kenya,2000-10-03 00:00:00
+Sri Lanka,West Indies,287,179,6,10,away,away,Sri Lanka,Kenya,2000-10-04 00:00:00
+Bangladesh,England,232,236,8,2,away,away,England,Kenya,2000-10-05 00:00:00
+India,Australia,265,245,9,10,away,away,India,Kenya,2000-10-07 00:00:00
+Sri Lanka,Pakistan,194,195,10,1,away,away,Pakistan,Kenya,2000-10-08 00:00:00
+New Zealand,Zimbabwe,265,201,7,10,away,away,New Zealand,Kenya,2000-10-09 00:00:00
+England,South Africa,182,184,10,2,away,away,South Africa,Kenya,2000-10-10 00:00:00
+Pakistan,New Zealand,252,255,10,6,away,away,New Zealand,Kenya,2000-10-11 00:00:00
+India,South Africa,295,200,6,10,away,away,India,Kenya,2000-10-13 00:00:00
+India,New Zealand,264,265,6,6,away,away,New Zealand,Kenya,2000-10-15 00:00:00
+India,Sri Lanka,224,225,8,5,away,away,Sri Lanka,United Arab Emirates,2000-10-20 00:00:00
+Zimbabwe,Sri Lanka,225,229,4,3,away,away,Sri Lanka,United Arab Emirates,2000-10-21 00:00:00
+New Zealand,South Africa,194,197,8,4,away,home,South Africa,South Africa,2000-10-22 00:00:00
+India,Zimbabwe,265,252,8,6,away,away,India,United Arab Emirates,2000-10-22 00:00:00
+Pakistan,England,304,306,9,5,home,away,England,Pakistan,2000-10-24 00:00:00
+Sri Lanka,Zimbabwe,276,153,9,10,away,away,Sri Lanka,United Arab Emirates,2000-10-25 00:00:00
+South Africa,New Zealand,324,189,4,10,home,away,South Africa,South Africa,2000-10-25 00:00:00
+Zimbabwe,India,218,219,9,7,away,away,India,United Arab Emirates,2000-10-26 00:00:00
+England,Pakistan,211,214,9,2,away,home,Pakistan,Pakistan,2000-10-27 00:00:00
+Sri Lanka,India,294,226,5,10,away,away,Sri Lanka,United Arab Emirates,2000-10-27 00:00:00
+New Zealand,South Africa,287,289,6,5,away,home,South Africa,South Africa,2000-10-28 00:00:00
+Sri Lanka,India,299,54,5,10,away,away,Sri Lanka,United Arab Emirates,2000-10-29 00:00:00
+England,Pakistan,158,161,10,4,away,home,Pakistan,Pakistan,2000-10-30 00:00:00
+New Zealand,South Africa,114,158,5,4,away,home,South Africa,South Africa,2000-11-01 00:00:00
+New Zealand,South Africa,256,258,9,7,away,home,South Africa,South Africa,2000-11-04 00:00:00
+Zimbabwe,India,253,255,7,7,away,home,India,India,2000-12-02 00:00:00
+India,Zimbabwe,306,245,5,8,home,away,India,India,2000-12-05 00:00:00
+India,Zimbabwe,283,284,8,9,home,away,Zimbabwe,India,2000-12-08 00:00:00
+Zimbabwe,India,165,166,10,1,away,home,India,India,2000-12-11 00:00:00
+India,Zimbabwe,301,262,6,10,home,away,India,India,2000-12-14 00:00:00
+Sri Lanka,South Africa,221,223,10,6,away,home,South Africa,South Africa,2000-12-15 00:00:00
+South Africa,Sri Lanka,302,207,7,6,home,away,South Africa,South Africa,2000-12-17 00:00:00
+Zimbabwe,New Zealand,300,210,7,10,away,home,Zimbabwe,New Zealand,2001-01-02 00:00:00
+Zimbabwe,New Zealand,236,237,7,2,away,home,New Zealand,New Zealand,2001-01-04 00:00:00
+New Zealand,Zimbabwe,273,274,9,9,home,away,Zimbabwe,New Zealand,2001-01-07 00:00:00
+Sri Lanka,South Africa,247,250,4,2,away,home,South Africa,South Africa,2001-01-09 00:00:00
+Australia,West Indies,267,193,6,7,home,away,Australia,Australia,2001-01-11 00:00:00
+South Africa,Sri Lanka,290,191,7,10,home,away,South Africa,South Africa,2001-01-11 00:00:00
+Zimbabwe,West Indies,240,241,9,9,away,away,West Indies,Australia,2001-01-13 00:00:00
+West Indies,Australia,234,236,8,1,away,home,Australia,Australia,2001-01-14 00:00:00
+Sri Lanka,South Africa,206,207,10,5,away,home,South Africa,South Africa,2001-01-14 00:00:00
+Australia,West Indies,277,211,4,8,home,away,Australia,Australia,2001-01-17 00:00:00
+Sri Lanka,South Africa,214,204,6,10,away,home,Sri Lanka,South Africa,2001-01-17 00:00:00
+Zimbabwe,Australia,223,226,9,2,away,home,Australia,Australia,2001-01-21 00:00:00
+Zimbabwe,West Indies,138,91,10,10,away,away,Zimbabwe,Australia,2001-01-23 00:00:00
+West Indies,Zimbabwe,235,175,6,10,away,away,West Indies,Australia,2001-01-25 00:00:00
+West Indies,Australia,123,124,10,0,away,home,Australia,Australia,2001-01-26 00:00:00
+Australia,Zimbabwe,291,205,6,10,home,away,Australia,Australia,2001-01-28 00:00:00
+Zimbabwe,Australia,279,282,6,4,away,home,Australia,Australia,2001-01-30 00:00:00
+Sri Lanka,New Zealand,213,152,8,10,away,home,Sri Lanka,New Zealand,2001-01-31 00:00:00
+West Indies,Zimbabwe,178,134,10,10,away,away,West Indies,Australia,2001-02-02 00:00:00
+New Zealand,Sri Lanka,205,209,8,7,home,away,Sri Lanka,New Zealand,2001-02-03 00:00:00
+Australia,Zimbabwe,302,301,5,6,home,away,Australia,Australia,2001-02-04 00:00:00
+New Zealand,Sri Lanka,181,182,10,1,home,away,Sri Lanka,New Zealand,2001-02-06 00:00:00
+Australia,West Indies,253,119,9,10,home,away,Australia,Australia,2001-02-07 00:00:00
+New Zealand,Sri Lanka,182,155,9,5,home,away,Sri Lanka,New Zealand,2001-02-08 00:00:00
+Australia,West Indies,338,299,6,10,home,away,Australia,Australia,2001-02-09 00:00:00
+New Zealand,Sri Lanka,282,269,6,10,home,away,New Zealand,New Zealand,2001-02-11 00:00:00
+New Zealand,Pakistan,149,150,10,4,home,away,Pakistan,New Zealand,2018-02-17 20:01:00
+Pakistan,New Zealand,135,136,10,4,away,home,New Zealand,New Zealand,2001-02-20 00:00:00
+Pakistan,New Zealand,243,215,9,10,away,home,Pakistan,New Zealand,2001-02-22 00:00:00
+New Zealand,Pakistan,284,146,5,10,home,away,New Zealand,New Zealand,2001-02-25 00:00:00
+Pakistan,New Zealand,285,290,10,6,away,home,New Zealand,New Zealand,2001-02-28 00:00:00
+England,Sri Lanka,143,144,10,5,away,home,Sri Lanka,Sri Lanka,2001-03-23 00:00:00
+Sri Lanka,England,226,160,6,10,home,away,Sri Lanka,Sri Lanka,2001-03-25 00:00:00
+India,Australia,315,255,10,10,home,away,India,India,2001-03-25 00:00:00
+England,Sri Lanka,165,166,9,0,away,home,Sri Lanka,Sri Lanka,2001-03-27 00:00:00
+India,Australia,248,249,9,2,home,away,Australia,India,2001-03-28 00:00:00
+India,Australia,299,181,8,10,home,away,India,India,2001-03-31 00:00:00
+Australia,India,338,245,4,10,away,home,Australia,India,2001-04-03 00:00:00
+India,Australia,265,269,6,6,home,away,Australia,India,2001-04-06 00:00:00
+Bangladesh,Zimbabwe,151,155,8,3,away,home,Zimbabwe,Zimbabwe,2001-04-07 00:00:00
+Zimbabwe,Bangladesh,230,103,7,10,home,away,Zimbabwe,Zimbabwe,2001-04-08 00:00:00
+Pakistan,Sri Lanka,255,239,9,10,away,away,Pakistan,United Arab Emirates,2001-04-08 00:00:00
+Sri Lanka,New Zealand,269,163,9,10,away,away,Sri Lanka,United Arab Emirates,2001-04-10 00:00:00
+Zimbabwe,Bangladesh,308,272,4,8,home,away,Zimbabwe,Zimbabwe,2001-04-11 00:00:00
+New Zealand,Pakistan,266,270,7,2,away,away,Pakistan,United Arab Emirates,2001-04-12 00:00:00
+Pakistan,Sri Lanka,278,250,9,8,away,away,Pakistan,United Arab Emirates,2001-04-13 00:00:00
+New Zealand,Pakistan,127,131,10,3,away,away,Pakistan,United Arab Emirates,2001-04-15 00:00:00
+New Zealand,Sri Lanka,248,169,6,8,away,away,New Zealand,United Arab Emirates,2001-04-17 00:00:00
+Sri Lanka,Pakistan,297,220,7,10,away,away,Sri Lanka,United Arab Emirates,2001-04-20 00:00:00
+South Africa,West Indies,200,202,10,7,away,home,West Indies,West Indies,2001-04-28 00:00:00
+West Indies,South Africa,220,221,8,2,home,away,South Africa,West Indies,2001-05-02 00:00:00
+South Africa,West Indies,287,155,4,10,away,away,South Africa,Grenada,2001-05-05 00:00:00
+West Indies,South Africa,200,201,10,2,away,away,South Africa,Grenada,2001-05-06 00:00:00
+West Indies,South Africa,199,202,10,3,home,away,South Africa,West Indies,2001-05-09 00:00:00
+South Africa,West Indies,190,137,10,10,away,home,South Africa,West Indies,2001-05-12 00:00:00
+South Africa,West Indies,163,164,7,4,away,home,West Indies,West Indies,2001-05-16 00:00:00
+Pakistan,England,273,165,6,10,away,home,Pakistan,England,2001-06-07 00:00:00
+Pakistan,Australia,257,258,10,3,away,away,Australia,Wales,2001-06-09 00:00:00
+England,Australia,268,272,4,5,home,away,Australia,England,2001-06-10 00:00:00
+Pakistan,England,242,240,8,10,away,home,Pakistan,England,2001-06-12 00:00:00
+Australia,England,208,86,7,10,away,home,Australia,England,2001-06-14 00:00:00
+England,Pakistan,156,153,10,4,home,away,Pakistan awarded the match (opposition conceded),England,2001-06-17 00:00:00
+Pakistan,Australia,290,254,9,10,away,away,Pakistan,England,2001-06-19 00:00:00
+England,Australia,176,177,10,2,home,away,Australia,England,2001-06-21 00:00:00
+West Indies,Zimbabwe,266,239,5,9,away,home,West Indies,Zimbabwe,2001-06-23 00:00:00
+Pakistan,Australia,152,156,10,1,away,away,Australia,England,2001-06-23 00:00:00
+Zimbabwe,India,133,137,10,1,home,away,India,Zimbabwe,2001-06-24 00:00:00
+Zimbabwe,India,234,237,6,6,home,away,India,Zimbabwe,2001-06-27 00:00:00
+West Indies,India,169,170,7,4,away,away,India,Zimbabwe,2001-06-30 00:00:00
+Zimbabwe,West Indies,255,258,5,5,home,away,West Indies,Zimbabwe,2001-07-01 00:00:00
+West Indies,India,229,230,5,4,away,away,India,Zimbabwe,2001-07-04 00:00:00
+West Indies,India,290,274,6,8,away,away,West Indies,Zimbabwe,2001-07-07 00:00:00
+Sri Lanka,New Zealand,220,204,10,9,home,away,Sri Lanka,Sri Lanka,2001-07-18 00:00:00
+New Zealand,India,211,127,8,10,away,away,New Zealand,Sri Lanka,2001-07-20 00:00:00
+Sri Lanka,India,221,215,9,7,home,away,Sri Lanka,Sri Lanka,2001-07-22 00:00:00
+New Zealand,Sri Lanka,236,240,8,5,away,home,Sri Lanka,Sri Lanka,2001-07-25 00:00:00
+New Zealand,India,200,133,10,10,away,away,New Zealand,Sri Lanka,2001-07-26 00:00:00
+Sri Lanka,India,183,184,10,3,home,away,India,Sri Lanka,2001-07-28 00:00:00
+Sri Lanka,New Zealand,221,115,6,9,home,away,Sri Lanka,Sri Lanka,2001-07-31 00:00:00
+India,Sri Lanka,227,181,8,10,away,home,India,Sri Lanka,2001-08-01 00:00:00
+New Zealand,India,264,267,7,3,away,away,India,Sri Lanka,2001-08-02 00:00:00
+Sri Lanka,India,295,174,5,10,home,away,Sri Lanka,Sri Lanka,2001-08-05 00:00:00
+West Indies,Kenya,311,205,4,10,away,home,West Indies,Kenya,2001-08-15 00:00:00
+Kenya,West Indies,192,193,10,4,home,away,West Indies,Kenya,2001-08-18 00:00:00
+Kenya,West Indies,232,234,7,3,home,away,West Indies,Kenya,2001-08-19 00:00:00
+South Africa,Zimbabwe,363,210,3,5,away,home,South Africa,Zimbabwe,2001-09-23 00:00:00
+South Africa,Zimbabwe,272,124,7,10,away,home,South Africa,Zimbabwe,2001-09-29 00:00:00
+Zimbabwe,South Africa,184,188,6,4,home,away,South Africa,Zimbabwe,2001-09-30 00:00:00
+Zimbabwe,England,206,210,10,5,home,away,England,Zimbabwe,2001-10-03 00:00:00
+India,South Africa,279,280,5,4,away,home,South Africa,South Africa,2001-10-05 00:00:00
+Zimbabwe,England,195,196,10,2,home,away,England,Zimbabwe,2001-10-06 00:00:00
+Zimbabwe,England,261,265,8,6,home,away,England,Zimbabwe,2001-10-07 00:00:00
+Kenya,South Africa,159,160,7,3,away,home,South Africa,South Africa,2001-10-07 00:00:00
+England,Zimbabwe,280,210,9,10,away,home,England,Zimbabwe,2001-10-10 00:00:00
+India,South Africa,233,192,10,10,away,home,India,South Africa,2001-10-10 00:00:00
+Kenya,India,90,91,10,0,away,away,India,South Africa,2001-10-12 00:00:00
+Zimbabwe,England,228,229,10,3,home,away,England,Zimbabwe,2001-10-13 00:00:00
+Kenya,South Africa,229,230,7,1,away,home,South Africa,South Africa,2001-10-14 00:00:00
+Kenya,India,246,176,6,10,away,away,Kenya,South Africa,2001-10-17 00:00:00
+South Africa,India,282,236,4,10,home,away,South Africa,South Africa,2001-10-19 00:00:00
+South Africa,Kenya,354,146,3,10,home,away,South Africa,South Africa,2001-10-22 00:00:00
+India,Kenya,351,165,3,5,away,away,India,South Africa,2001-10-24 00:00:00
+Sri Lanka,Zimbabwe,256,193,6,10,away,away,Sri Lanka,United Arab Emirates,2001-10-26 00:00:00
+India,South Africa,183,187,10,4,away,home,South Africa,South Africa,2001-10-26 00:00:00
+Pakistan,Sri Lanka,176,177,10,3,away,away,Sri Lanka,United Arab Emirates,2001-10-27 00:00:00
+Pakistan,Zimbabwe,279,173,6,10,away,away,Pakistan,United Arab Emirates,2001-10-28 00:00:00
+Sri Lanka,Zimbabwe,250,171,10,8,away,away,Sri Lanka,United Arab Emirates,2001-10-30 00:00:00
+Pakistan,Zimbabwe,261,232,9,10,away,away,Pakistan,United Arab Emirates,2001-10-31 00:00:00
+Sri Lanka,Pakistan,272,273,9,3,away,away,Pakistan,United Arab Emirates,2001-11-02 00:00:00
+Sri Lanka,Pakistan,173,177,10,5,away,away,Pakistan,United Arab Emirates,2001-11-04 00:00:00
+Bangladesh,Zimbabwe,156,161,10,5,home,away,Zimbabwe,Bangladesh,2001-11-23 00:00:00
+Zimbabwe,Bangladesh,309,267,6,9,away,home,Zimbabwe,Bangladesh,2001-11-25 00:00:00
+Bangladesh,Zimbabwe,215,219,10,3,home,away,Zimbabwe,Bangladesh,2001-11-26 00:00:00
+Zimbabwe,Sri Lanka,38,40,10,1,away,home,Sri Lanka,Sri Lanka,2001-12-08 00:00:00
+West Indies,Zimbabwe,173,175,10,6,away,away,Zimbabwe,Sri Lanka,2001-12-09 00:00:00
+West Indies,Sri Lanka,250,201,8,10,away,home,West Indies,Sri Lanka,2001-12-11 00:00:00
+Sri Lanka,Zimbabwe,272,213,7,10,home,away,Sri Lanka,Sri Lanka,2001-12-12 00:00:00
+West Indies,Sri Lanka,235,239,10,2,away,home,Sri Lanka,Sri Lanka,2001-12-15 00:00:00
+Zimbabwe,West Indies,154,155,10,2,away,away,West Indies,Sri Lanka,2001-12-16 00:00:00
+Sri Lanka,West Indies,253,212,8,7,home,away,Sri Lanka,Sri Lanka,2001-12-19 00:00:00
+New Zealand,Australia,199,176,8,10,away,home,New Zealand,Australia,2002-01-11 00:00:00
+Australia,South Africa,198,199,10,6,home,away,South Africa,Australia,2002-01-13 00:00:00
+South Africa,New Zealand,257,231,7,9,away,away,South Africa,Australia,2002-01-15 00:00:00
+New Zealand,Australia,235,212,9,10,away,home,New Zealand,Australia,2002-01-17 00:00:00
+South Africa,New Zealand,241,244,10,6,away,away,New Zealand,Australia,2002-01-19 00:00:00
+India,England,281,259,8,10,home,away,India,India,2002-01-19 00:00:00
+Australia,South Africa,241,214,4,10,home,away,Australia,Australia,2002-01-20 00:00:00
+Pakistan,Bangladesh,202,153,10,7,away,home,Pakistan,Bangladesh,2002-01-22 00:00:00
+South Africa,Australia,106,107,10,2,away,home,Australia,Australia,2002-01-22 00:00:00
+England,India,250,234,7,10,away,home,England,India,2002-01-22 00:00:00
+Pakistan,Bangladesh,281,209,5,8,away,home,Pakistan,Bangladesh,2002-01-24 00:00:00
+Bangladesh,Pakistan,220,221,10,2,home,away,Pakistan,Bangladesh,2002-01-25 00:00:00
+England,India,217,221,10,6,away,home,India,India,2002-01-25 00:00:00
+New Zealand,Australia,242,165,5,10,away,home,New Zealand,Australia,2002-01-26 00:00:00
+South Africa,New Zealand,253,160,5,10,away,away,South Africa,Australia,2002-01-27 00:00:00
+England,India,218,219,7,2,away,home,India,India,2002-01-28 00:00:00
+New Zealand,Australia,245,248,8,8,away,home,Australia,Australia,2002-01-29 00:00:00
+England,India,271,269,5,8,away,home,England,India,2002-01-31 00:00:00
+South Africa,New Zealand,270,203,5,8,away,away,South Africa,Australia,2002-02-01 00:00:00
+Australia,South Africa,283,250,7,5,home,away,Australia,Australia,2002-02-03 00:00:00
+England,India,255,250,10,10,away,home,England,India,2002-02-03 00:00:00
+New Zealand,South Africa,190,191,10,2,away,away,South Africa,Australia,2002-02-06 00:00:00
+New Zealand,South Africa,175,173,10,4,away,away,South Africa,Australia,2002-02-08 00:00:00
+England,New Zealand,196,198,10,6,away,home,New Zealand,New Zealand,2002-02-13 00:00:00
+West Indies,Pakistan,190,193,10,6,away,away,Pakistan,United Arab Emirates,2002-02-14 00:00:00
+Pakistan,West Indies,232,181,10,10,away,away,Pakistan,United Arab Emirates,2002-02-15 00:00:00
+New Zealand,England,244,89,8,10,home,away,New Zealand,New Zealand,2002-02-16 00:00:00
+West Indies,Pakistan,260,150,5,10,away,away,West Indies,United Arab Emirates,2002-02-17 00:00:00
+England,New Zealand,244,201,5,10,away,home,England,New Zealand,2002-02-20 00:00:00
+England,New Zealand,193,189,6,10,away,home,England,New Zealand,2002-02-23 00:00:00
+England,New Zealand,218,223,8,5,away,home,New Zealand,New Zealand,2002-02-26 00:00:00
+India,Zimbabwe,274,277,6,9,home,away,Zimbabwe,India,2002-03-07 00:00:00
+India,Zimbabwe,319,255,6,10,home,away,India,India,2002-03-10 00:00:00
+India,Zimbabwe,191,197,10,4,home,away,Zimbabwe,India,2002-03-13 00:00:00
+Zimbabwe,India,240,244,8,5,away,home,India,India,2002-03-16 00:00:00
+India,Zimbabwe,333,232,6,10,home,away,India,India,2002-03-19 00:00:00
+Australia,South Africa,223,204,8,10,away,home,Australia,South Africa,2002-03-22 00:00:00
+Australia,South Africa,226,181,8,10,away,home,Australia,South Africa,2002-03-24 00:00:00
+South Africa,Australia,259,259,7,9,home,away,Match tied,South Africa,2002-03-27 00:00:00
+Australia,South Africa,290,253,6,10,away,home,Australia,South Africa,2002-03-30 00:00:00
+South Africa,Australia,267,271,6,2,home,away,Australia,South Africa,2002-04-03 00:00:00
+South Africa,Australia,326,330,3,7,home,away,Australia,South Africa,2002-04-06 00:00:00
+Sri Lanka,Pakistan,242,201,9,10,away,away,Sri Lanka,United Arab Emirates,2002-04-08 00:00:00
+New Zealand,Sri Lanka,218,207,8,10,away,away,New Zealand,United Arab Emirates,2002-04-09 00:00:00
+South Africa,Australia,249,185,7,10,home,away,South Africa,South Africa,2002-04-09 00:00:00
+Pakistan,New Zealand,288,237,6,8,away,away,Pakistan,United Arab Emirates,2002-04-11 00:00:00
+Sri Lanka,Pakistan,239,230,6,5,away,away,Sri Lanka,United Arab Emirates,2002-04-12 00:00:00
+Sri Lanka,New Zealand,243,197,9,9,away,away,Sri Lanka,United Arab Emirates,2002-04-14 00:00:00
+New Zealand,Pakistan,213,217,9,2,away,away,Pakistan,United Arab Emirates,2002-04-15 00:00:00
+Pakistan,Sri Lanka,295,78,6,10,away,away,Pakistan,United Arab Emirates,2002-04-17 00:00:00
+Pakistan,New Zealand,275,122,6,10,home,away,Pakistan,Pakistan,2002-04-21 00:00:00
+New Zealand,Pakistan,277,278,5,7,away,home,Pakistan,Pakistan,2002-04-24 00:00:00
+Pakistan,New Zealand,278,212,5,10,home,away,Pakistan,Pakistan,2002-04-27 00:00:00
+West Indies,India,186,187,10,3,home,away,India,West Indies,2002-05-29 00:00:00
+India,West Indies,123,124,10,3,away,home,West Indies,West Indies,2002-06-01 00:00:00
+India,West Indies,260,191,10,10,away,home,India,West Indies,2002-06-02 00:00:00
+New Zealand,West Indies,248,250,7,4,away,home,West Indies,West Indies,2002-06-08 00:00:00
+New Zealand,West Indies,210,211,7,3,away,home,West Indies,West Indies,2002-06-09 00:00:00
+Pakistan,Australia,176,177,8,3,away,home,Australia,Australia,2002-06-12 00:00:00
+New Zealand,West Indies,212,202,5,9,away,home,New Zealand,West Indies,2002-06-12 00:00:00
+Australia,Pakistan,167,168,10,8,home,away,Pakistan,Australia,2002-06-15 00:00:00
+New Zealand,West Indies,291,292,8,6,away,home,West Indies,West Indies,2002-06-16 00:00:00
+Pakistan,Australia,256,165,7,10,away,home,Pakistan,Australia,2002-06-19 00:00:00
+England,Sri Lanka,293,249,6,9,home,away,England,England,2002-06-27 00:00:00
+England,India,271,272,7,4,home,away,India,England,2002-06-29 00:00:00
+Sri Lanka,India,202,203,8,6,away,away,India,England,2002-06-30 00:00:00
+Sri Lanka,England,240,241,7,7,away,home,England,England,2002-07-02 00:00:00
+Sri Lanka,India,187,188,10,6,away,away,India,England,2002-07-06 00:00:00
+Sri Lanka,England,229,206,10,10,away,home,Sri Lanka,England,2002-07-07 00:00:00
+England,India,229,165,8,10,home,away,England,England,2002-07-09 00:00:00
+India,Sri Lanka,304,241,10,10,away,away,India,England,2002-07-11 00:00:00
+England,India,325,326,5,8,home,away,India,England,2002-07-13 00:00:00
+Bangladesh,Sri Lanka,226,228,8,5,away,home,Sri Lanka,Sri Lanka,2002-08-04 00:00:00
+Bangladesh,Sri Lanka,76,77,10,2,away,home,Sri Lanka,Sri Lanka,2002-08-05 00:00:00
+Sri Lanka,Bangladesh,258,200,6,10,home,away,Sri Lanka,Sri Lanka,2002-08-07 00:00:00
+South Africa,Pakistan,283,229,9,10,away,away,South Africa,Morocco,2002-08-12 00:00:00
+Pakistan,Sri Lanka,279,251,5,8,away,away,Pakistan,Morocco,2002-08-14 00:00:00
+Sri Lanka,South Africa,267,174,7,10,away,away,Sri Lanka,Morocco,2002-08-15 00:00:00
+Sri Lanka,Pakistan,242,203,10,10,away,away,Sri Lanka,Morocco,2002-08-17 00:00:00
+South Africa,Pakistan,196,188,8,10,away,away,South Africa,Morocco,2002-08-18 00:00:00
+South Africa,Sri Lanka,220,221,6,4,away,away,Sri Lanka,Morocco,2002-08-19 00:00:00
+Sri Lanka,South Africa,235,208,7,10,away,away,Sri Lanka,Morocco,2002-08-21 00:00:00
+Kenya,Pakistan,133,134,10,6,home,away,Pakistan,Kenya,2002-08-29 00:00:00
+Australia,Pakistan,332,108,5,10,away,away,Australia,Kenya,2002-08-30 00:00:00
+Kenya,Pakistan,179,181,10,3,home,away,Pakistan,Kenya,2002-09-01 00:00:00
+Kenya,Australia,84,85,10,2,home,away,Australia,Kenya,2002-09-02 00:00:00
+Pakistan,Australia,117,121,10,1,away,away,Australia,Kenya,2002-09-04 00:00:00
+Kenya,Australia,204,205,9,5,home,away,Australia,Kenya,2002-09-05 00:00:00
+Pakistan,Sri Lanka,200,201,10,2,away,home,Sri Lanka,Sri Lanka,2002-09-12 00:00:00
+West Indies,South Africa,238,242,8,8,away,away,South Africa,Sri Lanka,2002-09-13 00:00:00
+India,Zimbabwe,288,274,6,8,away,away,India,Sri Lanka,2002-09-14 00:00:00
+Australia,New Zealand,296,132,7,10,away,away,Australia,Sri Lanka,2002-09-15 00:00:00
+Sri Lanka,Netherlands,292,86,6,10,home,away,Sri Lanka,Sri Lanka,2002-09-16 00:00:00
+West Indies,Kenya,261,232,6,10,away,away,West Indies,Sri Lanka,2002-09-17 00:00:00
+England,Zimbabwe,298,190,8,9,away,away,England,Sri Lanka,2002-09-18 00:00:00
+Bangladesh,Australia,129,133,10,1,away,away,Australia,Sri Lanka,2002-09-19 00:00:00
+South Africa,Kenya,316,140,5,10,away,away,South Africa,Sri Lanka,2002-09-20 00:00:00
+Netherlands,Pakistan,136,142,10,1,away,away,Pakistan,Sri Lanka,2002-09-21 00:00:00
+England,India,269,271,7,2,away,away,India,Sri Lanka,2002-09-22 00:00:00
+New Zealand,Bangladesh,244,77,9,10,away,away,New Zealand,Sri Lanka,2002-09-23 00:00:00
+India,South Africa,261,251,9,6,away,away,India,Sri Lanka,2002-09-25 00:00:00
+Australia,Sri Lanka,162,163,10,3,away,home,Sri Lanka,Sri Lanka,2002-09-27 00:00:00
+South Africa,Bangladesh,301,133,8,10,home,away,South Africa,South Africa,2002-10-03 00:00:00
+Bangladesh,South Africa,154,155,9,0,away,home,South Africa,South Africa,2002-10-06 00:00:00
+Bangladesh,South Africa,151,152,10,3,away,home,South Africa,South Africa,2002-10-09 00:00:00
+India,West Indies,283,285,6,6,home,away,West Indies,India,2002-11-06 00:00:00
+India,West Indies,279,280,9,3,home,away,West Indies,India,2002-11-09 00:00:00
+West Indies,India,300,200,5,1,away,home,India,India,2002-11-12 00:00:00
+West Indies,India,324,325,4,5,away,home,India,India,2002-11-15 00:00:00
+India,West Indies,290,291,8,5,home,away,West Indies,India,2002-11-18 00:00:00
+West Indies,India,201,202,10,7,away,home,India,India,2002-11-21 00:00:00
+Pakistan,Zimbabwe,302,295,4,9,away,home,Pakistan,Zimbabwe,2002-11-23 00:00:00
+West Indies,India,315,180,6,10,away,home,West Indies,India,2002-11-24 00:00:00
+Pakistan,Zimbabwe,344,140,5,6,away,home,Pakistan,Zimbabwe,2002-11-24 00:00:00
+Pakistan,Zimbabwe,323,275,3,7,away,home,Pakistan,Zimbabwe,2002-11-27 00:00:00
+Sri Lanka,South Africa,128,129,10,4,away,home,South Africa,South Africa,2002-11-27 00:00:00
+South Africa,Sri Lanka,317,140,6,10,home,away,South Africa,South Africa,2002-11-29 00:00:00
+Zimbabwe,Pakistan,210,211,10,2,home,away,Pakistan,Zimbabwe,2002-11-30 00:00:00
+Pakistan,Zimbabwe,300,230,7,10,away,home,Pakistan,Zimbabwe,2002-12-01 00:00:00
+South Africa,Sri Lanka,253,258,7,3,home,away,Sri Lanka,South Africa,2002-12-01 00:00:00
+West Indies,Bangladesh,266,182,4,10,away,home,West Indies,Bangladesh,2002-12-02 00:00:00
+West Indies,Bangladesh,281,195,5,9,away,home,West Indies,Bangladesh,2002-12-03 00:00:00
+Sri Lanka,South Africa,184,190,10,2,away,home,South Africa,South Africa,2002-12-04 00:00:00
+Sri Lanka,South Africa,228,229,8,4,away,home,South Africa,South Africa,2002-12-06 00:00:00
+South Africa,Pakistan,272,140,7,10,home,away,South Africa,South Africa,2002-12-08 00:00:00
+Zimbabwe,Kenya,273,181,4,6,home,away,Zimbabwe,Zimbabwe,2002-12-11 00:00:00
+Pakistan,South Africa,335,153,6,10,away,home,Pakistan,South Africa,2002-12-11 00:00:00
+England,Australia,251,252,8,3,away,home,Australia,Australia,2002-12-13 00:00:00
+South Africa,Pakistan,182,120,10,10,home,away,South Africa,South Africa,2002-12-13 00:00:00
+Australia,England,318,229,6,10,home,away,Australia,Australia,2002-12-15 00:00:00
+Kenya,Zimbabwe,133,136,10,1,away,home,Zimbabwe,Zimbabwe,2002-12-15 00:00:00
+Pakistan,South Africa,213,214,10,1,away,home,South Africa,South Africa,2002-12-16 00:00:00
+England,Sri Lanka,292,249,10,6,away,away,England,Australia,2002-12-17 00:00:00
+South Africa,Pakistan,265,231,8,10,home,away,South Africa,South Africa,2002-12-18 00:00:00
+England,Sri Lanka,258,163,9,10,away,away,England,Australia,2002-12-20 00:00:00
+Australia,Sri Lanka,305,163,5,10,home,away,Australia,Australia,2002-12-22 00:00:00
+India,New Zealand,108,109,10,7,away,home,New Zealand,New Zealand,2002-12-26 00:00:00
+New Zealand,India,254,219,9,10,home,away,New Zealand,New Zealand,2002-12-29 00:00:00
+India,New Zealand,108,109,10,5,away,home,New Zealand,New Zealand,2003-01-01 00:00:00
+India,New Zealand,122,123,10,3,away,home,New Zealand,New Zealand,2003-01-04 00:00:00
+New Zealand,India,168,169,10,8,home,away,India,New Zealand,2003-01-08 00:00:00
+Sri Lanka,Australia,343,264,5,10,away,home,Sri Lanka,Australia,2003-01-09 00:00:00
+Australia,England,271,264,4,7,home,away,Australia,Australia,2003-01-11 00:00:00
+New Zealand,India,199,200,9,9,home,away,India,New Zealand,2003-01-11 00:00:00
+Sri Lanka,England,284,253,7,10,away,away,Sri Lanka,Australia,2003-01-13 00:00:00
+India,New Zealand,122,125,10,4,away,home,New Zealand,New Zealand,2003-01-14 00:00:00
+Sri Lanka,Australia,211,214,9,6,away,home,Australia,Australia,2003-01-15 00:00:00
+England,Sri Lanka,279,260,7,10,away,away,England,Australia,2003-01-17 00:00:00
+England,Australia,152,153,10,6,away,home,Australia,Australia,2003-01-19 00:00:00
+Sri Lanka,Australia,214,215,8,1,away,home,Australia,Australia,2003-01-21 00:00:00
+England,Australia,117,118,10,0,away,home,Australia,Australia,2003-01-23 00:00:00
+Australia,England,229,224,7,10,home,away,Australia,Australia,2003-01-25 00:00:00
+West Indies,South Africa,278,275,5,9,away,home,West Indies,South Africa,2003-02-09 00:00:00
+Zimbabwe,Namibia,340,104,2,5,home,away,Zimbabwe,Zimbabwe,2003-02-10 00:00:00
+Sri Lanka,New Zealand,272,225,7,10,away,away,Sri Lanka,South Africa,2003-02-10 00:00:00
+Australia,Pakistan,310,228,8,10,away,away,Australia,South Africa,2003-02-11 00:00:00
+Canada,Bangladesh,180,120,10,10,away,away,Canada,South Africa,2003-02-11 00:00:00
+Kenya,South Africa,140,142,10,0,away,home,South Africa,South Africa,2003-02-12 00:00:00
+India,Netherlands,204,136,10,10,away,away,India,South Africa,2003-02-12 00:00:00
+New Zealand,West Indies,241,221,7,10,away,away,New Zealand,South Africa,2003-02-13 00:00:00
+Bangladesh,Sri Lanka,124,126,10,0,away,away,Sri Lanka,South Africa,2003-02-14 00:00:00
+India,Australia,125,128,10,1,away,away,Australia,South Africa,2003-02-15 00:00:00
+Canada,Kenya,197,198,10,6,away,away,Kenya,South Africa,2003-02-15 00:00:00
+Netherlands,England,142,144,9,4,away,away,England,South Africa,2003-02-16 00:00:00
+Pakistan,Namibia,255,84,9,10,away,away,Pakistan,South Africa,2003-02-16 00:00:00
+South Africa,New Zealand,306,229,6,1,home,away,New Zealand,South Africa,2003-02-16 00:00:00
+India,Zimbabwe,255,172,7,10,away,home,India,Zimbabwe,2003-02-19 00:00:00
+Canada,Sri Lanka,36,37,10,1,away,away,Sri Lanka,South Africa,2003-02-19 00:00:00
+England,Namibia,272,217,10,9,away,away,England,South Africa,2003-02-19 00:00:00
+Australia,Netherlands,170,122,2,10,away,away,Australia,South Africa,2003-02-20 00:00:00
+Bangladesh,South Africa,108,109,10,0,away,home,South Africa,South Africa,2003-02-22 00:00:00
+England,Pakistan,246,134,8,10,away,away,England,South Africa,2003-02-22 00:00:00
+Canada,West Indies,202,206,10,3,away,away,West Indies,South Africa,2003-02-23 00:00:00
+India,Namibia,311,130,2,10,away,away,India,South Africa,2003-02-23 00:00:00
+Kenya,Sri Lanka,210,157,9,10,home,away,Kenya,Kenya,2003-02-24 00:00:00
+Zimbabwe,Australia,246,248,9,3,home,away,Australia,Zimbabwe,2003-02-24 00:00:00
+Pakistan,Netherlands,253,156,9,10,away,away,Pakistan,South Africa,2003-02-25 00:00:00
+Bangladesh,New Zealand,198,199,7,3,away,away,New Zealand,South Africa,2003-02-26 00:00:00
+India,England,250,168,9,10,away,away,India,South Africa,2003-02-26 00:00:00
+Australia,Namibia,301,45,6,10,away,away,Australia,South Africa,2003-02-27 00:00:00
+South Africa,Canada,254,136,8,5,home,away,South Africa,South Africa,2003-02-27 00:00:00
+Zimbabwe,Netherlands,301,202,8,9,home,away,Zimbabwe,Zimbabwe,2003-02-28 00:00:00
+Sri Lanka,West Indies,228,222,6,9,away,away,Sri Lanka,South Africa,2003-02-28 00:00:00
+Kenya,Bangladesh,217,185,7,10,away,away,Kenya,South Africa,2003-03-01 00:00:00
+Pakistan,India,273,276,7,4,away,away,India,South Africa,2003-03-01 00:00:00
+England,Australia,204,208,8,8,away,away,Australia,South Africa,2003-03-02 00:00:00
+Canada,New Zealand,196,197,10,5,away,away,New Zealand,South Africa,2003-03-03 00:00:00
+Netherlands,Namibia,314,250,4,10,away,away,Netherlands,South Africa,2003-03-03 00:00:00
+Sri Lanka,South Africa,268,229,9,6,away,home,Match tied (D/L method),South Africa,2003-03-03 00:00:00
+West Indies,Kenya,246,104,7,10,away,away,West Indies,South Africa,2003-03-04 00:00:00
+Australia,Sri Lanka,319,223,5,10,away,away,Australia,South Africa,2003-03-07 00:00:00
+Kenya,India,225,226,6,4,away,away,India,South Africa,2003-03-07 00:00:00
+Zimbabwe,New Zealand,252,253,7,4,away,away,New Zealand,South Africa,2003-03-08 00:00:00
+India,Sri Lanka,292,109,6,10,away,away,India,South Africa,2003-03-10 00:00:00
+Australia,New Zealand,208,112,9,10,away,away,Australia,South Africa,2003-03-11 00:00:00
+Zimbabwe,Kenya,133,135,10,3,away,away,Kenya,South Africa,2003-03-12 00:00:00
+New Zealand,India,146,150,10,3,away,away,India,South Africa,2003-03-14 00:00:00
+Sri Lanka,Zimbabwe,256,182,5,10,away,away,Sri Lanka,South Africa,2003-03-15 00:00:00
+Kenya,Australia,174,178,8,5,away,away,Australia,South Africa,2003-03-15 00:00:00
+Australia,Sri Lanka,212,123,7,7,away,away,Australia,South Africa,2003-03-18 00:00:00
+India,Kenya,270,179,4,10,away,away,India,South Africa,2003-03-20 00:00:00
+Australia,India,359,234,2,10,away,away,Australia,South Africa,2003-03-23 00:00:00
+Pakistan,Zimbabwe,278,210,7,10,away,away,Pakistan,United Arab Emirates,2003-04-03 00:00:00
+Sri Lanka,Pakistan,223,225,6,3,away,away,Pakistan,United Arab Emirates,2003-04-04 00:00:00
+Kenya,Zimbabwe,225,230,6,5,away,away,Zimbabwe,United Arab Emirates,2003-04-05 00:00:00
+Sri Lanka,Kenya,256,127,5,10,away,away,Sri Lanka,United Arab Emirates,2003-04-06 00:00:00
+Sri Lanka,Zimbabwe,193,194,10,6,away,away,Zimbabwe,United Arab Emirates,2003-04-07 00:00:00
+Pakistan,Kenya,286,143,8,10,away,away,Pakistan,United Arab Emirates,2003-04-08 00:00:00
+Zimbabwe,Pakistan,168,172,10,2,away,away,Pakistan,United Arab Emirates,2003-04-10 00:00:00
+India,Bangladesh,276,76,10,10,away,home,India,Bangladesh,2003-04-11 00:00:00
+India,South Africa,307,154,4,10,away,away,India,Bangladesh,2003-04-13 00:00:00
+South Africa,Bangladesh,294,211,3,10,away,home,South Africa,Bangladesh,2003-04-14 00:00:00
+Bangladesh,India,207,208,10,6,home,away,India,Bangladesh,2003-04-16 00:00:00
+South Africa,Bangladesh,261,168,5,10,away,home,South Africa,Bangladesh,2003-04-17 00:00:00
+India,South Africa,215,216,10,5,away,away,South Africa,Bangladesh,2003-04-18 00:00:00
+Pakistan,Sri Lanka,199,120,8,10,away,home,Pakistan,Sri Lanka,2003-05-10 00:00:00
+Pakistan,New Zealand,116,117,10,3,away,away,New Zealand,Sri Lanka,2003-05-11 00:00:00
+New Zealand,Sri Lanka,139,143,10,5,away,home,Sri Lanka,Sri Lanka,2003-05-13 00:00:00
+Australia,West Indies,270,205,5,8,away,home,Australia,West Indies,2003-05-17 00:00:00
+Sri Lanka,Pakistan,172,160,10,10,home,away,Sri Lanka,Sri Lanka,2003-05-18 00:00:00
+West Indies,Australia,163,166,10,2,home,away,Australia,West Indies,2003-05-18 00:00:00
+New Zealand,Sri Lanka,156,147,8,10,away,home,New Zealand,Sri Lanka,2003-05-19 00:00:00
+Pakistan,New Zealand,203,181,9,10,away,away,Pakistan,Sri Lanka,2003-05-20 00:00:00
+Australia,West Indies,258,233,4,9,away,home,Australia,West Indies,2003-05-21 00:00:00
+Pakistan,New Zealand,198,200,10,6,away,away,New Zealand,Sri Lanka,2003-05-23 00:00:00
+Australia,West Indies,286,219,5,10,away,home,Australia,West Indies,2003-05-24 00:00:00
+West Indies,Australia,290,251,5,9,home,away,West Indies,West Indies,2003-05-25 00:00:00
+Australia,West Indies,252,254,10,7,away,away,West Indies,Grenada,2003-05-30 00:00:00
+Australia,West Indies,247,249,8,1,away,away,West Indies,Grenada,2003-06-01 00:00:00
+Sri Lanka,West Indies,201,146,10,10,away,home,Sri Lanka,West Indies,2003-06-07 00:00:00
+West Indies,Sri Lanka,312,313,4,6,home,away,Sri Lanka,West Indies,2003-06-08 00:00:00
+Sri Lanka,West Indies,191,160,10,4,away,home,West Indies,West Indies,2003-06-11 00:00:00
+England,Pakistan,204,208,9,8,home,away,Pakistan,England,2003-06-17 00:00:00
+Pakistan,England,185,189,10,3,away,home,England,England,2003-06-20 00:00:00
+Pakistan,England,229,231,7,6,away,home,England,England,2003-06-22 00:00:00
+England,Zimbabwe,191,195,8,6,home,away,Zimbabwe,England,2003-06-26 00:00:00
+South Africa,England,264,265,6,4,away,home,England,England,2003-06-28 00:00:00
+South Africa,Zimbabwe,272,226,5,9,away,away,South Africa,England,2003-06-29 00:00:00
+England,South Africa,223,227,7,3,home,away,South Africa,England,2003-07-03 00:00:00
+Zimbabwe,South Africa,174,175,8,1,away,away,South Africa,Wales,2003-07-05 00:00:00
+Zimbabwe,England,92,95,10,4,away,home,England,England,2003-07-06 00:00:00
+South Africa,England,198,199,9,6,away,home,England,England,2003-07-08 00:00:00
+Zimbabwe,South Africa,173,174,8,3,away,away,South Africa,England,2003-07-10 00:00:00
+South Africa,England,107,111,10,3,away,home,England,England,2003-07-12 00:00:00
+Bangladesh,Australia,105,107,10,2,away,home,Australia,Australia,2003-08-02 00:00:00
+Bangladesh,Australia,147,148,10,1,away,home,Australia,Australia,2003-08-03 00:00:00
+Australia,Bangladesh,254,142,7,10,home,away,Australia,Australia,2003-08-06 00:00:00
+Pakistan,Bangladesh,323,186,3,10,home,away,Pakistan,Pakistan,2003-09-09 00:00:00
+Pakistan,Bangladesh,243,169,8,10,home,away,Pakistan,Pakistan,2003-09-12 00:00:00
+Pakistan,Bangladesh,257,201,9,9,home,away,Pakistan,Pakistan,2003-09-15 00:00:00
+Bangladesh,Pakistan,222,226,8,5,away,home,Pakistan,Pakistan,2003-09-18 00:00:00
+Pakistan,Bangladesh,302,244,5,7,home,away,Pakistan,Pakistan,2003-09-21 00:00:00
+Pakistan,South Africa,277,269,6,6,home,away,Pakistan,Pakistan,2003-10-03 00:00:00
+Pakistan,South Africa,267,225,7,9,home,away,Pakistan,Pakistan,2003-10-05 00:00:00
+Pakistan,South Africa,243,221,8,6,home,away,South Africa,Pakistan,2003-10-07 00:00:00
+Pakistan,South Africa,157,158,10,4,home,away,South Africa,Pakistan,2003-10-10 00:00:00
+Pakistan,South Africa,192,193,10,3,home,away,South Africa,Pakistan,2003-10-12 00:00:00
+India,Australia,283,246,5,9,home,away,India,India,2003-10-26 00:00:00
+New Zealand,Australia,97,101,10,2,away,away,Australia,India,2003-10-29 00:00:00
+Australia,India,286,209,8,10,away,home,Australia,India,2003-11-01 00:00:00
+New Zealand,Australia,258,259,9,8,away,away,Australia,India,2003-11-03 00:00:00
+India,New Zealand,246,249,9,6,home,away,New Zealand,India,2003-11-06 00:00:00
+Bangladesh,England,143,144,10,3,home,away,England,Bangladesh,2003-11-07 00:00:00
+Australia,New Zealand,225,181,7,10,away,away,Australia,India,2003-11-09 00:00:00
+Bangladesh,England,134,137,9,3,home,away,England,Bangladesh,2003-11-10 00:00:00
+Bangladesh,England,182,185,10,3,home,away,England,Bangladesh,2003-11-12 00:00:00
+Australia,India,347,286,2,8,away,home,Australia,India,2003-11-12 00:00:00
+India,New Zealand,353,208,5,10,home,away,India,India,2003-11-15 00:00:00
+England,Sri Lanka,88,89,10,0,away,home,Sri Lanka,Sri Lanka,2003-11-18 00:00:00
+Australia,India,235,198,5,10,away,home,Australia,India,2003-11-18 00:00:00
+West Indies,Zimbabwe,347,173,6,3,away,home,West Indies,Zimbabwe,2003-11-22 00:00:00
+West Indies,Zimbabwe,125,128,10,4,away,home,Zimbabwe,Zimbabwe,2003-11-23 00:00:00
+Zimbabwe,West Indies,229,208,5,10,home,away,Zimbabwe,Zimbabwe,2003-11-26 00:00:00
+West Indies,Zimbabwe,256,150,3,7,away,home,West Indies,Zimbabwe,2003-11-29 00:00:00
+New Zealand,Pakistan,291,292,5,7,away,home,Pakistan,Pakistan,2003-11-29 00:00:00
+Zimbabwe,West Indies,196,197,10,2,home,away,West Indies,Zimbabwe,2003-11-30 00:00:00
+Pakistan,New Zealand,281,157,6,10,home,away,Pakistan,Pakistan,2003-12-01 00:00:00
+Pakistan,New Zealand,314,263,7,7,home,away,Pakistan,Pakistan,2003-12-03 00:00:00
+New Zealand,Pakistan,183,184,10,3,away,home,Pakistan,Pakistan,2003-12-05 00:00:00
+Pakistan,New Zealand,277,228,4,6,home,away,Pakistan,Pakistan,2003-12-07 00:00:00
+Pakistan,New Zealand,229,230,7,6,away,home,New Zealand,New Zealand,2004-01-03 00:00:00
+New Zealand,Pakistan,235,236,8,4,home,away,Pakistan,New Zealand,2004-01-07 00:00:00
+Australia,India,288,270,10,10,home,away,Australia,Australia,2004-01-09 00:00:00
+Pakistan,New Zealand,255,259,9,3,away,home,New Zealand,New Zealand,2004-01-10 00:00:00
+Australia,Zimbabwe,225,126,8,10,home,away,Australia,Australia,2004-01-11 00:00:00
+Pakistan,New Zealand,126,127,10,2,away,home,New Zealand,New Zealand,2004-01-14 00:00:00
+Zimbabwe,India,208,211,6,3,away,away,India,Australia,2004-01-14 00:00:00
+Australia,Zimbabwe,344,196,7,6,home,away,Australia,Australia,2004-01-16 00:00:00
+New Zealand,Pakistan,307,303,8,10,home,away,New Zealand,New Zealand,2004-01-17 00:00:00
+India,Australia,303,284,4,10,away,home,India,Australia,2004-01-18 00:00:00
+India,Zimbabwe,255,231,6,10,away,away,India,Australia,2004-01-20 00:00:00
+India,Australia,296,225,4,8,away,home,Australia,Australia,2004-01-22 00:00:00
+India,Zimbabwe,280,277,7,6,away,away,India,Australia,2004-01-24 00:00:00
+South Africa,West Indies,263,54,4,10,home,away,South Africa,South Africa,2004-01-25 00:00:00
+Australia,Zimbabwe,279,266,7,8,home,away,Australia,Australia,2004-01-26 00:00:00
+South Africa,West Indies,179,163,7,10,home,away,South Africa,South Africa,2004-01-28 00:00:00
+India,Australia,203,204,10,5,away,home,Australia,Australia,2004-02-01 00:00:00
+South Africa,West Indies,297,300,4,3,home,away,West Indies,South Africa,2004-02-01 00:00:00
+Zimbabwe,India,135,136,10,6,away,away,India,Australia,2004-02-03 00:00:00
+West Indies,South Africa,304,310,2,6,away,home,South Africa,South Africa,2004-02-04 00:00:00
+India,Australia,222,224,10,3,away,home,Australia,Australia,2004-02-06 00:00:00
+Australia,India,359,151,5,10,home,away,Australia,Australia,2004-02-08 00:00:00
+New Zealand,South Africa,225,226,8,5,home,away,South Africa,New Zealand,2004-02-13 00:00:00
+South Africa,New Zealand,253,255,8,5,away,home,New Zealand,New Zealand,2004-02-17 00:00:00
+New Zealand,South Africa,254,249,5,7,home,away,New Zealand,New Zealand,2004-02-20 00:00:00
+Australia,Sri Lanka,262,178,6,10,away,home,Australia,Sri Lanka,2004-02-20 00:00:00
+Sri Lanka,Australia,245,244,10,5,home,away,Sri Lanka,Sri Lanka,2004-02-22 00:00:00
+South Africa,New Zealand,259,264,7,4,away,home,New Zealand,New Zealand,2004-02-25 00:00:00
+Sri Lanka,Australia,226,227,8,5,home,away,Australia,Sri Lanka,2004-02-25 00:00:00
+Australia,Sri Lanka,233,193,10,10,away,home,Australia,Sri Lanka,2004-02-27 00:00:00
+New Zealand,South Africa,193,175,8,5,home,away,New Zealand,New Zealand,2004-02-29 00:00:00
+Australia,Sri Lanka,198,202,7,7,away,home,Sri Lanka,Sri Lanka,2004-02-29 00:00:00
+South Africa,New Zealand,186,190,9,5,away,home,New Zealand,New Zealand,2004-03-02 00:00:00
+Bangladesh,Zimbabwe,238,230,7,9,away,home,Bangladesh,Zimbabwe,2004-03-10 00:00:00
+Zimbabwe,Bangladesh,242,228,8,10,home,away,Zimbabwe,Zimbabwe,2004-03-12 00:00:00
+India,Pakistan,349,344,7,8,away,home,India,Pakistan,2004-03-13 00:00:00
+Bangladesh,Zimbabwe,183,185,10,7,away,home,Zimbabwe,Zimbabwe,2004-03-14 00:00:00
+Pakistan,India,329,317,6,10,home,away,Pakistan,Pakistan,2004-03-16 00:00:00
+India,Pakistan,244,247,9,6,away,home,Pakistan,Pakistan,2004-03-19 00:00:00
+Pakistan,India,293,294,9,5,home,away,India,Pakistan,2004-03-21 00:00:00
+India,Pakistan,293,253,7,10,away,home,India,Pakistan,2004-03-24 00:00:00
+West Indies,England,156,157,5,8,away,away,England,Guyana,2004-04-18 00:00:00
+Zimbabwe,Sri Lanka,211,144,6,4,home,away,Sri Lanka,Zimbabwe,2004-04-20 00:00:00
+Zimbabwe,Sri Lanka,136,139,10,1,home,away,Sri Lanka,Zimbabwe,2004-04-22 00:00:00
+Zimbabwe,Sri Lanka,35,40,10,1,home,away,Sri Lanka,Zimbabwe,2004-04-25 00:00:00
+Sri Lanka,Zimbabwe,223,151,9,10,away,home,Sri Lanka,Zimbabwe,2004-04-27 00:00:00
+Sri Lanka,Zimbabwe,246,221,7,9,away,home,Sri Lanka,Zimbabwe,2004-04-29 00:00:00
+England,West Indies,281,284,8,5,away,home,West Indies,West Indies,2004-05-01 00:00:00
+England,West Indies,280,282,8,6,away,home,West Indies,West Indies,2004-05-02 00:00:00
+West Indies,England,261,262,6,5,home,away,England,West Indies,2004-05-05 00:00:00
+Bangladesh,West Indies,144,145,8,9,away,home,West Indies,West Indies,2004-05-15 00:00:00
+West Indies,Bangladesh,124,101,7,8,home,away,West Indies,West Indies,2004-05-16 00:00:00
+Bangladesh,West Indies,118,119,7,3,away,away,West Indies,Grenada,2004-05-19 00:00:00
+Zimbabwe,Australia,205,207,9,3,home,away,Australia,Zimbabwe,2004-05-25 00:00:00
+Australia,Zimbabwe,323,184,8,10,away,home,Australia,Zimbabwe,2004-05-27 00:00:00
+Zimbabwe,Australia,196,199,10,2,home,away,Australia,Zimbabwe,2004-05-29 00:00:00
+England,West Indies,147,148,10,3,home,away,West Indies,England,2004-06-27 00:00:00
+England,New Zealand,101,103,10,3,home,away,New Zealand,England,2004-06-29 00:00:00
+West Indies,England,159,160,10,3,away,home,England,England,2004-07-01 00:00:00
+West Indies,New Zealand,216,220,10,5,away,away,New Zealand,Wales,2004-07-03 00:00:00
+England,New Zealand,237,241,7,4,home,away,New Zealand,England,2004-07-04 00:00:00
+England,West Indies,285,286,7,3,home,away,West Indies,England,2004-07-06 00:00:00
+New Zealand,West Indies,266,159,10,10,away,away,New Zealand,England,2004-07-10 00:00:00
+Bangladesh,Hong Kong,221,105,9,10,away,away,Bangladesh,Sri Lanka,2004-07-16 00:00:00
+India,United Arab Emirates,260,144,6,10,away,away,India,Sri Lanka,2004-07-16 00:00:00
+Pakistan,Bangladesh,257,181,6,10,away,away,Pakistan,Sri Lanka,2004-07-17 00:00:00
+Sri Lanka,United Arab Emirates,239,123,10,10,home,away,Sri Lanka,Sri Lanka,2004-07-17 00:00:00
+Pakistan,Hong Kong,343,165,5,10,away,away,Pakistan,Sri Lanka,2004-07-18 00:00:00
+Sri Lanka,India,282,270,4,8,home,away,Sri Lanka,Sri Lanka,2004-07-18 00:00:00
+Bangladesh,India,177,178,10,2,away,away,India,Sri Lanka,2004-07-21 00:00:00
+Pakistan,Sri Lanka,122,123,10,3,away,home,Sri Lanka,Sri Lanka,2004-07-21 00:00:00
+Bangladesh,Sri Lanka,190,191,9,0,away,home,Sri Lanka,Sri Lanka,2004-07-23 00:00:00
+Pakistan,India,300,241,9,8,away,away,Pakistan,Sri Lanka,2004-07-25 00:00:00
+India,Sri Lanka,271,267,6,9,away,home,India,Sri Lanka,2004-07-27 00:00:00
+Bangladesh,Pakistan,166,167,10,4,away,away,Pakistan,Sri Lanka,2004-07-29 00:00:00
+Sri Lanka,India,228,203,9,9,home,away,Sri Lanka,Sri Lanka,2004-08-01 00:00:00
+South Africa,Sri Lanka,263,265,9,7,away,home,Sri Lanka,Sri Lanka,2004-08-20 00:00:00
+Pakistan,India,192,127,6,10,away,away,Pakistan,Netherlands,2004-08-21 00:00:00
+Sri Lanka,South Africa,213,176,9,10,home,away,Sri Lanka,Sri Lanka,2004-08-22 00:00:00
+South Africa,Sri Lanka,191,192,10,6,away,home,Sri Lanka,Sri Lanka,2004-08-25 00:00:00
+South Africa,Sri Lanka,235,236,7,3,away,home,Sri Lanka,Sri Lanka,2004-08-28 00:00:00
+Australia,Pakistan,192,175,7,10,away,away,Australia,Netherlands,2004-08-28 00:00:00
+Sri Lanka,South Africa,308,259,8,10,home,away,Sri Lanka,Sri Lanka,2004-08-31 00:00:00
+India,England,170,171,10,3,away,home,England,England,2004-09-01 00:00:00
+England,India,307,237,5,10,home,away,England,England,2004-09-03 00:00:00
+Australia,Pakistan,269,259,6,10,away,away,Australia,England,2004-09-04 00:00:00
+India,England,204,181,10,10,away,home,India,England,2004-09-05 00:00:00
+England,Zimbabwe,299,147,7,10,home,away,England,England,2011-09-10 20:04:00
+New Zealand,United States of America,347,137,4,10,away,away,New Zealand,England,2004-09-10 00:00:00
+India,Kenya,290,192,4,7,away,away,India,England,2004-09-11 00:00:00
+Bangladesh,South Africa,93,94,10,1,away,away,South Africa,England,2004-09-12 00:00:00
+United States of America,Australia,65,66,10,1,away,away,Australia,England,2004-09-13 00:00:00
+Zimbabwe,Sri Lanka,191,195,10,6,away,away,Sri Lanka,England,2004-09-14 00:00:00
+Kenya,Pakistan,94,95,10,3,away,away,Pakistan,England,2015-09-14 20:04:00
+West Indies,Bangladesh,269,131,3,10,away,away,West Indies,England,2004-09-15 00:00:00
+New Zealand,Australia,198,199,9,3,away,away,Australia,England,2004-09-16 00:00:00
+England,Sri Lanka,251,95,7,5,home,away,England,England,2018-09-17 20:04:00
+South Africa,West Indies,246,249,6,5,away,away,West Indies,England,2019-09-18 20:04:00
+India,Pakistan,200,201,10,7,away,away,Pakistan,England,2004-09-19 00:00:00
+Australia,England,259,262,9,4,away,home,England,England,2004-09-21 00:00:00
+Pakistan,West Indies,131,132,10,3,away,away,West Indies,England,2004-09-22 00:00:00
+England,West Indies,217,218,10,8,home,away,West Indies,England,2004-09-25 00:00:00
+Pakistan,Zimbabwe,292,148,7,10,home,away,Pakistan,Pakistan,2004-09-30 00:00:00
+Zimbabwe,Pakistan,252,258,4,7,away,home,Pakistan,Pakistan,2004-10-03 00:00:00
+Sri Lanka,Pakistan,232,233,9,2,away,home,Pakistan,Pakistan,2004-10-06 00:00:00
+Zimbabwe,Sri Lanka,104,108,10,3,away,away,Sri Lanka,Pakistan,2004-10-09 00:00:00
+Sri Lanka,Pakistan,293,297,6,4,away,home,Pakistan,Pakistan,2004-10-14 00:00:00
+Sri Lanka,Pakistan,287,168,7,10,away,home,Sri Lanka,Pakistan,2004-10-16 00:00:00
+New Zealand,Bangladesh,224,86,10,10,away,home,New Zealand,Bangladesh,2004-11-02 00:00:00
+Bangladesh,New Zealand,146,148,10,7,home,away,New Zealand,Bangladesh,2004-11-05 00:00:00
+New Zealand,Bangladesh,250,167,7,7,away,home,New Zealand,Bangladesh,2004-11-07 00:00:00
+India,Pakistan,292,293,6,4,home,away,Pakistan,India,2004-11-13 00:00:00
+Zimbabwe,England,195,197,10,5,home,away,England,Zimbabwe,2004-11-28 00:00:00
+England,Zimbabwe,263,102,6,10,away,home,England,Zimbabwe,2004-12-01 00:00:00
+Zimbabwe,England,238,239,7,2,home,away,England,Zimbabwe,2004-12-04 00:00:00
+Australia,New Zealand,246,247,9,6,home,away,New Zealand,Australia,2004-12-05 00:00:00
+England,Zimbabwe,261,187,6,10,away,home,England,Zimbabwe,2004-12-05 00:00:00
+Australia,New Zealand,261,244,7,10,home,away,Australia,Australia,2004-12-08 00:00:00
+India,Bangladesh,245,234,8,8,away,home,India,Bangladesh,2004-12-23 00:00:00
+Sri Lanka,New Zealand,141,144,10,3,away,home,New Zealand,New Zealand,2004-12-26 00:00:00
+Bangladesh,India,229,214,9,10,home,away,Bangladesh,Bangladesh,2004-12-26 00:00:00
+India,Bangladesh,348,257,5,9,away,home,India,Bangladesh,2004-12-27 00:00:00
+ICC World XI,Asia XI,344,232,8,10,away,away,ICC World XI,Australia,2005-01-10 00:00:00
+Australia,West Indies,301,185,4,10,home,away,Australia,Australia,2005-01-14 00:00:00
+Pakistan,Australia,272,253,7,6,away,home,Australia,Australia,2005-01-16 00:00:00
+West Indies,Pakistan,273,274,5,4,away,away,Pakistan,Australia,2005-01-19 00:00:00
+Zimbabwe,Bangladesh,251,229,8,10,away,home,Zimbabwe,Bangladesh,2005-01-20 00:00:00
+Pakistan,Australia,163,167,10,1,away,home,Australia,Australia,2005-01-23 00:00:00
+Zimbabwe,Bangladesh,237,206,5,10,away,home,Zimbabwe,Bangladesh,2005-01-24 00:00:00
+Bangladesh,Zimbabwe,244,204,9,10,home,away,Bangladesh,Bangladesh,2005-01-26 00:00:00
+Australia,West Indies,269,196,8,10,home,away,Australia,Australia,2005-01-26 00:00:00
+West Indies,Pakistan,339,281,4,9,away,away,West Indies,Australia,2005-01-28 00:00:00
+Bangladesh,Zimbabwe,247,189,9,10,home,away,Bangladesh,Bangladesh,2005-01-29 00:00:00
+Australia,Pakistan,265,268,10,7,home,away,Pakistan,Australia,2005-01-30 00:00:00
+South Africa,England,175,103,9,3,home,away,England,South Africa,2005-01-30 00:00:00
+Zimbabwe,Bangladesh,198,202,10,2,away,home,Bangladesh,Bangladesh,2005-01-31 00:00:00
+Pakistan,West Indies,307,277,8,10,away,away,Pakistan,Australia,2005-02-01 00:00:00
+England,South Africa,270,270,5,8,away,home,Match tied,South Africa,2005-02-02 00:00:00
+Australia,Pakistan,237,219,10,9,home,away,Australia,Australia,2005-02-04 00:00:00
+England,South Africa,267,270,8,7,away,home,South Africa,South Africa,2005-02-04 00:00:00
+Australia,Pakistan,239,208,9,10,home,away,Australia,Australia,2005-02-06 00:00:00
+South Africa,England,291,183,5,10,home,away,South Africa,South Africa,2005-02-06 00:00:00
+South Africa,England,311,304,7,8,home,away,South Africa,South Africa,2005-02-09 00:00:00
+England,South Africa,240,241,10,7,away,home,South Africa,South Africa,2005-02-13 00:00:00
+Australia,New Zealand,236,226,7,10,away,home,Australia,New Zealand,2005-02-19 00:00:00
+Australia,New Zealand,314,208,6,10,away,home,Australia,New Zealand,2005-02-22 00:00:00
+South Africa,Zimbabwe,301,136,7,10,home,away,South Africa,South Africa,2005-02-25 00:00:00
+Australia,New Zealand,264,178,5,10,away,home,Australia,New Zealand,2005-02-26 00:00:00
+South Africa,Zimbabwe,329,198,6,7,home,away,South Africa,South Africa,2005-02-27 00:00:00
+New Zealand,Australia,233,236,10,3,home,away,Australia,New Zealand,2005-03-01 00:00:00
+Zimbabwe,South Africa,206,207,8,5,away,home,South Africa,South Africa,2005-03-02 00:00:00
+Australia,New Zealand,347,225,5,8,away,home,Australia,New Zealand,2005-03-05 00:00:00
+India,Pakistan,281,194,8,10,home,away,India,India,2005-04-02 00:00:00
+India,Pakistan,356,298,9,10,home,away,India,India,2005-04-05 00:00:00
+Pakistan,India,319,213,9,10,away,home,Pakistan,India,2005-04-09 00:00:00
+India,Pakistan,315,319,6,7,home,away,Pakistan,India,2005-04-12 00:00:00
+India,Pakistan,249,252,6,5,home,away,Pakistan,India,2005-04-15 00:00:00
+Pakistan,India,303,144,8,10,away,home,Pakistan,India,2005-04-17 00:00:00
+West Indies,South Africa,253,255,10,2,home,away,South Africa,West Indies,2005-05-07 00:00:00
+West Indies,South Africa,152,124,7,2,home,away,South Africa,West Indies,2005-05-08 00:00:00
+South Africa,West Indies,284,283,6,10,away,home,South Africa,West Indies,2005-05-11 00:00:00
+West Indies,South Africa,231,232,8,4,home,away,South Africa,West Indies,2005-05-14 00:00:00
+West Indies,South Africa,138,141,7,3,home,away,South Africa,West Indies,2005-05-15 00:00:00
+Pakistan,West Indies,192,133,10,10,away,home,Pakistan,West Indies,2005-05-18 00:00:00
+Pakistan,West Indies,258,218,8,10,away,home,Pakistan,West Indies,2005-05-21 00:00:00
+Pakistan,West Indies,303,281,6,10,away,home,Pakistan,West Indies,2005-05-22 00:00:00
+Bangladesh,England,190,192,10,0,away,home,England,England,2005-06-16 00:00:00
+Australia,Bangladesh,249,250,5,5,away,away,Bangladesh,Wales,2005-06-18 00:00:00
+Australia,England,252,253,9,7,away,home,England,England,2005-06-19 00:00:00
+England,Bangladesh,391,223,4,10,home,away,England,England,2005-06-21 00:00:00
+Australia,England,266,209,5,9,away,home,Australia,England,2005-06-23 00:00:00
+Bangladesh,Australia,139,140,10,0,away,away,Australia,England,2005-06-25 00:00:00
+Bangladesh,England,208,209,7,5,away,home,England,England,2005-06-26 00:00:00
+Bangladesh,Australia,250,254,8,4,away,away,Australia,England,2005-06-30 00:00:00
+Australia,England,196,196,10,9,away,home,Match tied,England,2005-07-02 00:00:00
+Australia,England,219,221,7,1,away,home,England,England,2005-07-07 00:00:00
+England,Australia,223,224,8,3,home,away,Australia,England,2005-07-10 00:00:00
+England,Australia,228,229,7,2,home,away,Australia,England,2005-07-12 00:00:00
+India,Sri Lanka,205,209,9,7,away,home,Sri Lanka,Sri Lanka,2005-07-30 00:00:00
+West Indies,India,178,180,10,4,away,away,India,Sri Lanka,2005-07-31 00:00:00
+Sri Lanka,West Indies,241,191,6,10,home,away,Sri Lanka,Sri Lanka,2005-08-02 00:00:00
+India,Sri Lanka,220,221,8,6,away,home,Sri Lanka,Sri Lanka,2005-08-03 00:00:00
+West Indies,Sri Lanka,226,193,7,10,away,home,West Indies,Sri Lanka,2005-08-06 00:00:00
+India,West Indies,262,255,4,9,away,away,India,Sri Lanka,2005-08-07 00:00:00
+Sri Lanka,India,281,263,9,9,home,away,Sri Lanka,Sri Lanka,2005-08-09 00:00:00
+Africa XI,Asia XI,198,196,10,10,away,away,Africa XI,South Africa,2005-08-17 00:00:00
+Asia XI,Africa XI,267,250,7,10,away,away,Asia XI,South Africa,2005-08-20 00:00:00
+Africa XI,Asia XI,106,8,10,2,away,away,No result,South Africa,2005-08-21 00:00:00
+New Zealand,Zimbabwe,397,205,5,10,away,home,New Zealand,Zimbabwe,2005-08-24 00:00:00
+New Zealand,India,215,164,10,10,away,away,New Zealand,Zimbabwe,2005-08-26 00:00:00
+India,Zimbabwe,226,65,6,10,away,home,India,Zimbabwe,2005-08-29 00:00:00
+Sri Lanka,Bangladesh,269,181,9,9,home,away,Sri Lanka,Sri Lanka,2005-08-31 00:00:00
+New Zealand,Zimbabwe,238,211,10,10,away,home,New Zealand,Zimbabwe,2005-08-31 00:00:00
+Sri Lanka,Bangladesh,295,220,5,6,home,away,Sri Lanka,Sri Lanka,2005-09-02 00:00:00
+New Zealand,India,278,279,9,4,away,away,India,Zimbabwe,2005-09-02 00:00:00
+Bangladesh,Sri Lanka,108,106,10,4,away,home,Sri Lanka,Sri Lanka,2005-09-04 00:00:00
+Zimbabwe,India,250,255,10,6,home,away,India,Zimbabwe,2005-09-04 00:00:00
+India,New Zealand,276,278,10,4,away,away,New Zealand,Zimbabwe,2005-09-06 00:00:00
+Australia,ICC World XI,255,162,8,10,home,away,Australia,Australia,2005-10-05 00:00:00
+Australia,ICC World XI,328,273,4,10,home,away,Australia,Australia,2005-10-07 00:00:00
+Australia,ICC World XI,293,137,5,10,home,away,Australia,Australia,2005-10-09 00:00:00
+New Zealand,South Africa,249,250,8,8,away,home,South Africa,South Africa,2005-10-23 00:00:00
+India,Sri Lanka,350,198,6,10,home,away,India,India,2005-10-25 00:00:00
+Sri Lanka,India,122,123,10,2,away,home,India,India,2005-10-28 00:00:00
+South Africa,New Zealand,201,182,9,10,home,away,South Africa,South Africa,2005-10-28 00:00:00
+New Zealand,South Africa,243,245,9,6,away,home,South Africa,South Africa,2005-10-30 00:00:00
+Sri Lanka,India,298,303,4,4,away,home,India,India,2005-10-31 00:00:00
+Sri Lanka,India,261,262,10,6,away,home,India,India,2005-11-03 00:00:00
+New Zealand,South Africa,215,140,10,5,away,home,South Africa,South Africa,2005-11-06 00:00:00
+India,Sri Lanka,285,286,8,5,home,away,Sri Lanka,India,2005-11-06 00:00:00
+Sri Lanka,India,196,197,10,3,away,home,India,India,2005-11-09 00:00:00
+Sri Lanka,India,244,245,9,5,away,home,India,India,2005-11-12 00:00:00
+India,South Africa,249,252,9,5,home,away,South Africa,India,2005-11-16 00:00:00
+South Africa,India,169,171,9,4,away,home,India,India,2005-11-19 00:00:00
+India,South Africa,188,189,10,0,home,away,South Africa,India,2005-11-25 00:00:00
+South Africa,India,221,224,6,5,away,home,India,India,2005-11-28 00:00:00
+Australia,New Zealand,252,105,8,10,away,home,Australia,New Zealand,2005-12-03 00:00:00
+Australia,New Zealand,322,320,5,10,away,home,Australia,New Zealand,2005-12-07 00:00:00
+Australia,New Zealand,331,332,7,8,away,home,New Zealand,New Zealand,2005-12-10 00:00:00
+England,Pakistan,327,285,4,10,away,home,England,Pakistan,2005-12-10 00:00:00
+England,Pakistan,230,231,10,3,away,home,Pakistan,Pakistan,2005-12-12 00:00:00
+Pakistan,England,353,188,6,10,home,away,Pakistan,Pakistan,2005-12-15 00:00:00
+Pakistan,England,210,197,10,10,home,away,Pakistan,Pakistan,2005-12-19 00:00:00
+England,Pakistan,206,200,9,9,away,home,England,Pakistan,2005-12-21 00:00:00
+Sri Lanka,New Zealand,164,166,10,3,away,home,New Zealand,New Zealand,2005-12-31 00:00:00
